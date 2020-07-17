@@ -1,0 +1,1827 @@
+Year,City,Sport,Discipline,Athlete,Location,Gender,Event,Medal
+1924,Chamonix,Skating,Figure skating, Ethel muckelt,UK,Women,Individual,Bronze
+1924,Chamonix,Skating,Figure skating, Herma szabo-plank,Austria,Women,Individual,Gold
+1924,Chamonix,Skating,Figure skating, Beatrix loughran,USA,Women,Individual,Silver
+1924,Chamonix,Skating,Figure skating, Andrée brunet,France,Women,Pairs,Bronze
+1924,Chamonix,Skating,Figure skating, Helene engelmann,Austria,Women,Pairs,Gold
+1924,Chamonix,Skating,Figure skating, Ludowika jakobsson,Finland,Women,Pairs,Silver
+1928,St.Moritz,Skating,Figure skating, Beatrix loughran,USA,Women,Individual,Bronze
+1928,St.Moritz,Skating,Figure skating, Sonja henie,Norway,Women,Individual,Gold
+1928,St.Moritz,Skating,Figure skating, Fritzi burger,Austria,Women,Individual,Silver
+1928,St.Moritz,Skating,Figure skating, Melitta brunner,Austria,Women,Pairs,Bronze
+1928,St.Moritz,Skating,Figure skating, Andrée brunet,France,Women,Pairs,Gold
+1928,St.Moritz,Skating,Figure skating, Lilly scholz,Austria,Women,Pairs,Silver
+1932,Lake Placid,Skating,Figure skating, Maribel vinson,USA,Women,Individual,Bronze
+1932,Lake Placid,Skating,Figure skating, Sonja henie,Norway,Women,Individual,Gold
+1932,Lake Placid,Skating,Figure skating, Fritzi burger,Austria,Women,Individual,Silver
+1932,Lake Placid,Skating,Figure skating, Emilia rotter,Hungary,Women,Pairs,Bronze
+1932,Lake Placid,Skating,Figure skating, Andrée brunet,France,Women,Pairs,Gold
+1932,Lake Placid,Skating,Figure skating, Beatrix loughran,USA,Women,Pairs,Silver
+1936,Garmisch Partenkirchen,Skating,Figure skating, Vivi-Anne hulten,Sweden,Women,Individual,Bronze
+1936,Garmisch Partenkirchen,Skating,Figure skating, Sonja henie,Norway,Women,Individual,Gold
+1936,Garmisch Partenkirchen,Skating,Figure skating, Cecilia colledge,UK,Women,Individual,Silver
+1936,Garmisch Partenkirchen,Skating,Figure skating, Emilia rotter,Hungary,Women,Pairs,Bronze
+1936,Garmisch Partenkirchen,Skating,Figure skating, Maxi herber,Germany,Women,Pairs,Gold
+1936,Garmisch Partenkirchen,Skating,Figure skating, Ilse pausin,Austria,Women,Pairs,Silver
+1936,Garmisch Partenkirchen,Skiing,Alpine Skiing, Laila schou-nilsen,Norway,Women,Alpine Combined,Bronze
+1936,Garmisch Partenkirchen,Skiing,Alpine Skiing, Christel cranz,Germany,Women,Alpine Combined,Gold
+1936,Garmisch Partenkirchen,Skiing,Alpine Skiing, Käthe grasegger,Germany,Women,Alpine Combined,Silver
+1948,St.Moritz,Skating,Figure skating, Jeannette altwegg,UK,Women,Individual,Bronze
+1948,St.Moritz,Skating,Figure skating, Barbara Ann scott,Canada,Women,Individual,Gold
+1948,St.Moritz,Skating,Figure skating, Eva pawlik,Austria,Women,Individual,Silver
+1948,St.Moritz,Skating,Figure skating, Suzanne morrow,Canada,Women,Pairs,Bronze
+1948,St.Moritz,Skating,Figure skating, Micheline lannoy,Belgium,Women,Pairs,Gold
+1948,St.Moritz,Skating,Figure skating, Andrea kekessy,Hungary,Women,Pairs,Silver
+1948,St.Moritz,Skiing,Alpine Skiing, Erika mahringer,Austria,Women,Alpine Combined,Bronze
+1948,St.Moritz,Skiing,Alpine Skiing, Trude beiser-jochum,Austria,Women,Alpine Combined,Gold
+1948,St.Moritz,Skiing,Alpine Skiing, Gretchen fraser,USA,Women,Alpine Combined,Silver
+1948,St.Moritz,Skiing,Alpine Skiing, Resi hammerer,Austria,Women,Downhill,Bronze
+1948,St.Moritz,Skiing,Alpine Skiing, Hedy schlunegger,Switzerland,Women,Downhill,Gold
+1948,St.Moritz,Skiing,Alpine Skiing, Trude beiser-jochum,Austria,Women,Downhill,Silver
+1948,St.Moritz,Skiing,Alpine Skiing, Erika mahringer,Austria,Women,Slalom,Bronze
+1948,St.Moritz,Skiing,Alpine Skiing, Gretchen fraser,USA,Women,Slalom,Gold
+1948,St.Moritz,Skiing,Alpine Skiing, Antoinette meyer,Switzerland,Women,Slalom,Silver
+1952,Oslo,Skating,Figure skating, Jacqueline du bief,France,Women,Individual,Bronze
+1952,Oslo,Skating,Figure skating, Jeannette altwegg,UK,Women,Individual,Gold
+1952,Oslo,Skating,Figure skating, Tenley albright,USA,Women,Individual,Silver
+1952,Oslo,Skating,Figure skating, Marianna nagy,Hungary,Women,Pairs,Bronze
+1952,Oslo,Skating,Figure skating, Ria falk,Germany,Women,Pairs,Gold
+1952,Oslo,Skating,Figure skating, Karol kennedy,USA,Women,Pairs,Silver
+1952,Oslo,Skiing,Alpine Skiing, Giuliana minuzzo chenal,Italy,Women,Downhill,Bronze
+1952,Oslo,Skiing,Alpine Skiing, Trude beiser-jochum,Austria,Women,Downhill,Gold
+1952,Oslo,Skiing,Alpine Skiing, Mirl buchner,Germany,Women,Downhill,Silver
+1952,Oslo,Skiing,Alpine Skiing, Mirl buchner,Germany,Women,Giant Slalom,Bronze
+1952,Oslo,Skiing,Alpine Skiing, Andrea mead lawrence,USA,Women,Giant Slalom,Gold
+1952,Oslo,Skiing,Alpine Skiing, Dagmar rom,Austria,Women,Giant Slalom,Silver
+1952,Oslo,Skiing,Alpine Skiing, Mirl buchner,Germany,Women,Slalom,Bronze
+1952,Oslo,Skiing,Alpine Skiing, Andrea mead lawrence,USA,Women,Slalom,Gold
+1952,Oslo,Skiing,Alpine Skiing, Ossi reichert,Germany,Women,Slalom,Silver
+1952,Oslo,Skiing,Cross Country Skiing, Siiri rantanen,Finland,Women,10KM,Bronze
+1952,Oslo,Skiing,Cross Country Skiing, Lydia wideman,Finland,Women,10KM,Gold
+1952,Oslo,Skiing,Cross Country Skiing, Mirja hietamies,Finland,Women,10KM,Silver
+1956,Cortina d'Ampezzo,Skating,Figure skating, Ingrid wendl,Austria,Women,Individual,Bronze
+1956,Cortina d'Ampezzo,Skating,Figure skating, Tenley albright,USA,Women,Individual,Gold
+1956,Cortina d'Ampezzo,Skating,Figure skating, Carol heiss,USA,Women,Individual,Silver
+1956,Cortina d'Ampezzo,Skating,Figure skating, Marianna nagy,Hungary,Women,Pairs,Bronze
+1956,Cortina d'Ampezzo,Skating,Figure skating, Elisabeth schwarz,Austria,Women,Pairs,Gold
+1956,Cortina d'Ampezzo,Skating,Figure skating, Frances dafoe,Canada,Women,Pairs,Silver
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing, Lucile wheeler,Canada,Women,Downhill,Bronze
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing, Madeleine berthod,Switzerland,Women,Downhill,Gold
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing, Frieda dänzer,Switzerland,Women,Downhill,Silver
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing, Dorothea hochleitner,Austria,Women,Giant Slalom,Bronze
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing, Ossi reichert,Germany,Women,Giant Slalom,Gold
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing, Josefine frandl,Austria,Women,Giant Slalom,Silver
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing, Yevgeniya sidorova,Russia,Women,Slalom,Bronze
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing, Renée colliard,Switzerland,Women,Slalom,Gold
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing, Regina schöpf,Austria,Women,Slalom,Silver
+1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing, Sonja edström,Sweden,Women,10KM,Bronze
+1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing, Lyubov baranova,Russia,Women,10KM,Gold
+1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing, Radya yeroshina,Russia,Women,10KM,Silver
+1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing, Sonja edström,Sweden,Women,3X5KM Relay,Bronze
+1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing, Anna Lisa eriksson,Sweden,Women,3X5KM Relay,Bronze
+1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing, Irma johansson,Sweden,Women,3X5KM Relay,Bronze
+1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing, Mirja hietamies,Finland,Women,3X5KM Relay,Gold
+1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing, Sirkka polkunen,Finland,Women,3X5KM Relay,Gold
+1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing, Siiri rantanen,Finland,Women,3X5KM Relay,Gold
+1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing, Lyubov baranova,Russia,Women,3X5KM Relay,Silver
+1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing, Alevtina kolchina,Russia,Women,3X5KM Relay,Silver
+1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing, Radya yeroshina,Russia,Women,3X5KM Relay,Silver
+1960,Squaw Valley,Skating,Figure skating, Barbara roles,USA,Women,Individual,Bronze
+1960,Squaw Valley,Skating,Figure skating, Carol heiss,USA,Women,Individual,Gold
+1960,Squaw Valley,Skating,Figure skating, Sjoukje dijkstra,Netherlands,Women,Individual,Silver
+1960,Squaw Valley,Skating,Figure skating, Nancy ludington,USA,Women,Pairs,Bronze
+1960,Squaw Valley,Skating,Figure skating, Barbara wagner,Canada,Women,Pairs,Gold
+1960,Squaw Valley,Skating,Figure skating, Marika kilius,Germany,Women,Pairs,Silver
+1960,Squaw Valley,Skating,Speed skating, Tamara rylova,Russia,Women,1000M,Bronze
+1960,Squaw Valley,Skating,Speed skating, Klara guseva,Russia,Women,1000M,Gold
+1960,Squaw Valley,Skating,Speed skating, Helga haase,Germany,Women,1000M,Silver
+1960,Squaw Valley,Skating,Speed skating, Helena pilejczyk,Poland,Women,1500M,Bronze
+1960,Squaw Valley,Skating,Speed skating, Lidiya skoblikova,Russia,Women,1500M,Gold
+1960,Squaw Valley,Skating,Speed skating, Elwira seroczynska,Poland,Women,1500M,Silver
+1960,Squaw Valley,Skating,Speed skating, Eevi huttunen,Finland,Women,3000M,Bronze
+1960,Squaw Valley,Skating,Speed skating, Lidiya skoblikova,Russia,Women,3000M,Gold
+1960,Squaw Valley,Skating,Speed skating, Valentina stenina,Russia,Women,3000M,Silver
+1960,Squaw Valley,Skating,Speed skating, Jeanne ashworth,USA,Women,500M,Bronze
+1960,Squaw Valley,Skating,Speed skating, Helga haase,Germany,Women,500M,Gold
+1960,Squaw Valley,Skating,Speed skating, Natalya donchenko,Russia,Women,500M,Silver
+1960,Squaw Valley,Skiing,Alpine Skiing, Traudl hecher,Austria,Women,Downhill,Bronze
+1960,Squaw Valley,Skiing,Alpine Skiing, Heidi biebl,Germany,Women,Downhill,Gold
+1960,Squaw Valley,Skiing,Alpine Skiing, Penelope pitou,USA,Women,Downhill,Silver
+1960,Squaw Valley,Skiing,Alpine Skiing, Giuliana minuzzo chenal,Italy,Women,Giant Slalom,Bronze
+1960,Squaw Valley,Skiing,Alpine Skiing, Yvonne ruegg,Switzerland,Women,Giant Slalom,Gold
+1960,Squaw Valley,Skiing,Alpine Skiing, Penelope pitou,USA,Women,Giant Slalom,Silver
+1960,Squaw Valley,Skiing,Alpine Skiing, Barbi henneberger,Germany,Women,Slalom,Bronze
+1960,Squaw Valley,Skiing,Alpine Skiing, Anne heggtveit,Canada,Women,Slalom,Gold
+1960,Squaw Valley,Skiing,Alpine Skiing, Betsy snite,USA,Women,Slalom,Silver
+1960,Squaw Valley,Skiing,Cross Country Skiing, Radya yeroshina,Russia,Women,10KM,Bronze
+1960,Squaw Valley,Skiing,Cross Country Skiing, Mariya gusakova,Russia,Women,10KM,Gold
+1960,Squaw Valley,Skiing,Cross Country Skiing, Lyubov baranova,Russia,Women,10KM,Silver
+1960,Squaw Valley,Skiing,Cross Country Skiing, Toini K. pöysti,Finland,Women,3X5KM Relay,Bronze
+1960,Squaw Valley,Skiing,Cross Country Skiing, Siiri rantanen,Finland,Women,3X5KM Relay,Bronze
+1960,Squaw Valley,Skiing,Cross Country Skiing, Eeva ruoppa,Finland,Women,3X5KM Relay,Bronze
+1960,Squaw Valley,Skiing,Cross Country Skiing, Sonja edström,Sweden,Women,3X5KM Relay,Gold
+1960,Squaw Valley,Skiing,Cross Country Skiing, Irma johansson,Sweden,Women,3X5KM Relay,Gold
+1960,Squaw Valley,Skiing,Cross Country Skiing, Britt strandberg,Sweden,Women,3X5KM Relay,Gold
+1960,Squaw Valley,Skiing,Cross Country Skiing, Lyubov baranova,Russia,Women,3X5KM Relay,Silver
+1960,Squaw Valley,Skiing,Cross Country Skiing, Mariya gusakova,Russia,Women,3X5KM Relay,Silver
+1960,Squaw Valley,Skiing,Cross Country Skiing, Radya yeroshina,Russia,Women,3X5KM Relay,Silver
+1964,Innsbruck,Luge,Luge, Helene thurner,Austria,Women,Singles,Bronze
+1964,Innsbruck,Luge,Luge, Ortrun enderlein,Germany,Women,Singles,Gold
+1964,Innsbruck,Luge,Luge, Ilse geisler,Germany,Women,Singles,Silver
+1964,Innsbruck,Skating,Figure skating, Petra burka,Canada,Women,Individual,Bronze
+1964,Innsbruck,Skating,Figure skating, Sjoukje dijkstra,Netherlands,Women,Individual,Gold
+1964,Innsbruck,Skating,Figure skating, Regine heitzer,Austria,Women,Individual,Silver
+1964,Innsbruck,Skating,Figure skating, Debbi wilkes,Canada,Women,Pairs,Silver
+1964,Innsbruck,Skating,Figure skating, Lyudmila belousova,Russia,Women,Pairs,Gold
+1964,Innsbruck,Skating,Figure skating, Ronald joseph,USA,Women,Pairs,Bronze
+1964,Innsbruck,Skating,Figure skating, Marika kilius,Germany,Women,Pairs,Silver
+1964,Innsbruck,Skating,Speed skating, Kaija mustonen,Finland,Women,1000M,Bronze
+1964,Innsbruck,Skating,Speed skating, Lidiya skoblikova,Russia,Women,1000M,Gold
+1964,Innsbruck,Skating,Speed skating, Irina yegorova,Russia,Women,1000M,Silver
+1964,Innsbruck,Skating,Speed skating, Berta kolokoltseva,Russia,Women,1500M,Bronze
+1964,Innsbruck,Skating,Speed skating, Lidiya skoblikova,Russia,Women,1500M,Gold
+1964,Innsbruck,Skating,Speed skating, Kaija mustonen,Finland,Women,1500M,Silver
+1964,Innsbruck,Skating,Speed skating, Lidiya skoblikova,Russia,Women,3000M,Gold
+1964,Innsbruck,Skating,Speed skating, Pil Hwa han,North Korea,Women,3000M,Silver
+1964,Innsbruck,Skating,Speed skating, Valentina stenina,Russia,Women,3000M,Silver
+1964,Innsbruck,Skating,Speed skating, Tatyana sidorova,Russia,Women,500M,Bronze
+1964,Innsbruck,Skating,Speed skating, Lidiya skoblikova,Russia,Women,500M,Gold
+1964,Innsbruck,Skating,Speed skating, Irina yegorova,Russia,Women,500M,Silver
+1964,Innsbruck,Skiing,Alpine Skiing, Traudl hecher,Austria,Women,Downhill,Bronze
+1964,Innsbruck,Skiing,Alpine Skiing, Christl haas,Austria,Women,Downhill,Gold
+1964,Innsbruck,Skiing,Alpine Skiing, Edith zimmermann,Austria,Women,Downhill,Silver
+1964,Innsbruck,Skiing,Alpine Skiing, Marielle goitschel,France,Women,Giant Slalom,Gold
+1964,Innsbruck,Skiing,Alpine Skiing, Christine goitschel,France,Women,Giant Slalom,Silver
+1964,Innsbruck,Skiing,Alpine Skiing, Jean saubert,USA,Women,Giant Slalom,Silver
+1964,Innsbruck,Skiing,Alpine Skiing, Jean saubert,USA,Women,Slalom,Bronze
+1964,Innsbruck,Skiing,Alpine Skiing, Christine goitschel,France,Women,Slalom,Gold
+1964,Innsbruck,Skiing,Alpine Skiing, Marielle goitschel,France,Women,Slalom,Silver
+1964,Innsbruck,Skiing,Cross Country Skiing, Mariya gusakova,Russia,Women,10KM,Bronze
+1964,Innsbruck,Skiing,Cross Country Skiing, Klavdiya boyarskikh,Russia,Women,10KM,Gold
+1964,Innsbruck,Skiing,Cross Country Skiing, Yevdoyka mekshilo,Russia,Women,10KM,Silver
+1964,Innsbruck,Skiing,Cross Country Skiing, Mirja lehtonen,Finland,Women,3X5KM Relay,Bronze
+1964,Innsbruck,Skiing,Cross Country Skiing, Toini K. pöysti,Finland,Women,3X5KM Relay,Bronze
+1964,Innsbruck,Skiing,Cross Country Skiing, Senja pusula,Finland,Women,3X5KM Relay,Bronze
+1964,Innsbruck,Skiing,Cross Country Skiing, Klavdiya boyarskikh,Russia,Women,3X5KM Relay,Gold
+1964,Innsbruck,Skiing,Cross Country Skiing, Alevtina kolchina,Russia,Women,3X5KM Relay,Gold
+1964,Innsbruck,Skiing,Cross Country Skiing, Yevdoyka mekshilo,Russia,Women,3X5KM Relay,Gold
+1964,Innsbruck,Skiing,Cross Country Skiing, Toini gustafsson,Sweden,Women,3X5KM Relay,Silver
+1964,Innsbruck,Skiing,Cross Country Skiing, Barbro martinsson,Sweden,Women,3X5KM Relay,Silver
+1964,Innsbruck,Skiing,Cross Country Skiing, Britt strandberg,Sweden,Women,3X5KM Relay,Silver
+1964,Innsbruck,Skiing,Cross Country Skiing, Alevtina kolchina,Russia,Women,5KM,Bronze
+1964,Innsbruck,Skiing,Cross Country Skiing, Klavdiya boyarskikh,Russia,Women,5KM,Gold
+1964,Innsbruck,Skiing,Cross Country Skiing, Mirja lehtonen,Finland,Women,5KM,Silver
+1968,Grenoble,Luge,Luge, Angelika dünhaupt,Germany,Women,Singles,Bronze
+1968,Grenoble,Luge,Luge, Erica lechner,Italy,Women,Singles,Gold
+1968,Grenoble,Luge,Luge, Christa schmuck,Germany,Women,Singles,Silver
+1968,Grenoble,Skating,Figure skating, Hana maskova,Czech Republic,Women,Individual,Bronze
+1968,Grenoble,Skating,Figure skating, Peggy fleming,USA,Women,Individual,Gold
+1968,Grenoble,Skating,Figure skating, Gabriele seyfert,Germany,Women,Individual,Silver
+1968,Grenoble,Skating,Figure skating, Margot glockshuber,Germany,Women,Pairs,Bronze
+1968,Grenoble,Skating,Figure skating, Lyudmila belousova,Russia,Women,Pairs,Gold
+1968,Grenoble,Skating,Figure skating, Tatyana zhuk,Russia,Women,Pairs,Silver
+1968,Grenoble,Skating,Speed skating, Dianne holum,USA,Women,1000M,Bronze
+1968,Grenoble,Skating,Speed skating, Carolina geijssen,Netherlands,Women,1000M,Gold
+1968,Grenoble,Skating,Speed skating, Lyudmila titova,Russia,Women,1000M,Silver
+1968,Grenoble,Skating,Speed skating, Christina kaiser,Netherlands,Women,1500M,Bronze
+1968,Grenoble,Skating,Speed skating, Kaija mustonen,Finland,Women,1500M,Gold
+1968,Grenoble,Skating,Speed skating, Carolina geijssen,Netherlands,Women,1500M,Silver
+1968,Grenoble,Skating,Speed skating, Christina kaiser,Netherlands,Women,3000M,Bronze
+1968,Grenoble,Skating,Speed skating, Johanna schut,Netherlands,Women,3000M,Gold
+1968,Grenoble,Skating,Speed skating, Kaija mustonen,Finland,Women,3000M,Silver
+1968,Grenoble,Skating,Speed skating, Lyudmila titova,Russia,Women,500M,Gold
+1968,Grenoble,Skating,Speed skating, Jennifer fish,USA,Women,500M,Silver
+1968,Grenoble,Skating,Speed skating, Dianne holum,USA,Women,500M,Silver
+1968,Grenoble,Skating,Speed skating, Mary meyers,USA,Women,500M,Silver
+1968,Grenoble,Skiing,Alpine Skiing, Christl haas,Austria,Women,Downhill,Bronze
+1968,Grenoble,Skiing,Alpine Skiing, Olga pall,Austria,Women,Downhill,Gold
+1968,Grenoble,Skiing,Alpine Skiing, Isabelle mir,France,Women,Downhill,Silver
+1968,Grenoble,Skiing,Alpine Skiing, Fernande bochatay,Switzerland,Women,Giant Slalom,Bronze
+1968,Grenoble,Skiing,Alpine Skiing, Nancy greene,Canada,Women,Giant Slalom,Gold
+1968,Grenoble,Skiing,Alpine Skiing, Annie famose,France,Women,Giant Slalom,Silver
+1968,Grenoble,Skiing,Alpine Skiing, Annie famose,France,Women,Slalom,Bronze
+1968,Grenoble,Skiing,Alpine Skiing, Marielle goitschel,France,Women,Slalom,Gold
+1968,Grenoble,Skiing,Alpine Skiing, Nancy greene,Canada,Women,Slalom,Silver
+1968,Grenoble,Skiing,Cross Country Skiing, Inger aufles,Norway,Women,10KM,Bronze
+1968,Grenoble,Skiing,Cross Country Skiing, Toini gustafsson,Sweden,Women,10KM,Gold
+1968,Grenoble,Skiing,Cross Country Skiing, Berit mördre,Norway,Women,10KM,Silver
+1968,Grenoble,Skiing,Cross Country Skiing, Rita achkina,Russia,Women,3X5KM Relay,Bronze
+1968,Grenoble,Skiing,Cross Country Skiing, Alevtina kolchina,Russia,Women,3X5KM Relay,Bronze
+1968,Grenoble,Skiing,Cross Country Skiing, Galina kulakova,Russia,Women,3X5KM Relay,Bronze
+1968,Grenoble,Skiing,Cross Country Skiing, Inger aufles,Norway,Women,3X5KM Relay,Gold
+1968,Grenoble,Skiing,Cross Country Skiing, Babben enger,Norway,Women,3X5KM Relay,Gold
+1968,Grenoble,Skiing,Cross Country Skiing, Berit mördre,Norway,Women,3X5KM Relay,Gold
+1968,Grenoble,Skiing,Cross Country Skiing, Toini gustafsson,Sweden,Women,3X5KM Relay,Silver
+1968,Grenoble,Skiing,Cross Country Skiing, Barbro martinsson,Sweden,Women,3X5KM Relay,Silver
+1968,Grenoble,Skiing,Cross Country Skiing, Britt strandberg,Sweden,Women,3X5KM Relay,Silver
+1968,Grenoble,Skiing,Cross Country Skiing, Alevtina kolchina,Russia,Women,5KM,Bronze
+1968,Grenoble,Skiing,Cross Country Skiing, Toini gustafsson,Sweden,Women,5KM,Gold
+1968,Grenoble,Skiing,Cross Country Skiing, Galina kulakova,Russia,Women,5KM,Silver
+1972,Sapporo,Luge,Luge, Margit schumann,Germany,Women,Singles,Bronze
+1972,Sapporo,Luge,Luge, Anna-Maria müller,Germany,Women,Singles,Gold
+1972,Sapporo,Luge,Luge, Ute rührold,Germany,Women,Singles,Silver
+1972,Sapporo,Skating,Figure skating, Janet lynn,USA,Women,Individual,Bronze
+1972,Sapporo,Skating,Figure skating, Beatrix schuba,Austria,Women,Individual,Gold
+1972,Sapporo,Skating,Figure skating, Karen magnussen,Canada,Women,Individual,Silver
+1972,Sapporo,Skating,Figure skating, Manuela gross,Germany,Women,Pairs,Bronze
+1972,Sapporo,Skating,Figure skating, Irina rodnina,Russia,Women,Pairs,Gold
+1972,Sapporo,Skating,Figure skating, Lyudmila smirnova,Russia,Women,Pairs,Silver
+1972,Sapporo,Skating,Speed skating, Anne henning,USA,Women,1000M,Bronze
+1972,Sapporo,Skating,Speed skating, Monika holzner-gawenus,Germany,Women,1000M,Gold
+1972,Sapporo,Skating,Speed skating, Atje deelstra,Netherlands,Women,1000M,Silver
+1972,Sapporo,Skating,Speed skating, Atje deelstra,Netherlands,Women,1500M,Bronze
+1972,Sapporo,Skating,Speed skating, Dianne holum,USA,Women,1500M,Gold
+1972,Sapporo,Skating,Speed skating, Christina kaiser,Netherlands,Women,1500M,Silver
+1972,Sapporo,Skating,Speed skating, Atje deelstra,Netherlands,Women,3000M,Bronze
+1972,Sapporo,Skating,Speed skating, Christina kaiser,Netherlands,Women,3000M,Gold
+1972,Sapporo,Skating,Speed skating, Dianne holum,USA,Women,3000M,Silver
+1972,Sapporo,Skating,Speed skating, Lyudmila titova,Russia,Women,500M,Bronze
+1972,Sapporo,Skating,Speed skating, Anne henning,USA,Women,500M,Gold
+1972,Sapporo,Skating,Speed skating, Vera krasnova,Russia,Women,500M,Silver
+1972,Sapporo,Skiing,Alpine Skiing, Susan corrock,USA,Women,Downhill,Bronze
+1972,Sapporo,Skiing,Alpine Skiing, Marie-Theres nadig,Switzerland,Women,Downhill,Gold
+1972,Sapporo,Skiing,Alpine Skiing, Annemarie moser-proll,Austria,Women,Downhill,Silver
+1972,Sapporo,Skiing,Alpine Skiing, Wiltrud drexel,Austria,Women,Giant Slalom,Bronze
+1972,Sapporo,Skiing,Alpine Skiing, Marie-Theres nadig,Switzerland,Women,Giant Slalom,Gold
+1972,Sapporo,Skiing,Alpine Skiing, Annemarie moser-proll,Austria,Women,Giant Slalom,Silver
+1972,Sapporo,Skiing,Alpine Skiing, Florence steurer,France,Women,Slalom,Bronze
+1972,Sapporo,Skiing,Alpine Skiing, Barbara cochran,USA,Women,Slalom,Gold
+1972,Sapporo,Skiing,Alpine Skiing, Danièle debernard,France,Women,Slalom,Silver
+1972,Sapporo,Skiing,Cross Country Skiing, Marjatta kajosmaa,Finland,Women,10KM,Bronze
+1972,Sapporo,Skiing,Cross Country Skiing, Galina kulakova,Russia,Women,10KM,Gold
+1972,Sapporo,Skiing,Cross Country Skiing, Alevtina olyunina,Russia,Women,10KM,Silver
+1972,Sapporo,Skiing,Cross Country Skiing, Inger aufles,Norway,Women,3X5KM Relay,Bronze
+1972,Sapporo,Skiing,Cross Country Skiing, Aslaug dahl,Norway,Women,3X5KM Relay,Bronze
+1972,Sapporo,Skiing,Cross Country Skiing, Berit mördre,Norway,Women,3X5KM Relay,Bronze
+1972,Sapporo,Skiing,Cross Country Skiing, Galina kulakova,Russia,Women,3X5KM Relay,Gold
+1972,Sapporo,Skiing,Cross Country Skiing, Lubov mukhacheva,Russia,Women,3X5KM Relay,Gold
+1972,Sapporo,Skiing,Cross Country Skiing, Alevtina olyunina,Russia,Women,3X5KM Relay,Gold
+1972,Sapporo,Skiing,Cross Country Skiing, Marjatta kajosmaa,Finland,Women,3X5KM Relay,Silver
+1972,Sapporo,Skiing,Cross Country Skiing, Hilkka riihivuori,Finland,Women,3X5KM Relay,Silver
+1972,Sapporo,Skiing,Cross Country Skiing, Helena takalo,Finland,Women,3X5KM Relay,Silver
+1972,Sapporo,Skiing,Cross Country Skiing, Helena sikolova,Czech Republic,Women,5KM,Bronze
+1972,Sapporo,Skiing,Cross Country Skiing, Galina kulakova,Russia,Women,5KM,Gold
+1972,Sapporo,Skiing,Cross Country Skiing, Marjatta kajosmaa,Finland,Women,5KM,Silver
+1976,Innsbruck,Luge,Luge, Elisabeth demleitner,Germany,Women,Singles,Bronze
+1976,Innsbruck,Luge,Luge, Margit schumann,Germany,Women,Singles,Gold
+1976,Innsbruck,Luge,Luge, Ute rührold,Germany,Women,Singles,Silver
+1976,Innsbruck,Skating,Figure skating, Colleen o'connor,USA,Women,Ice Dancing,Bronze
+1976,Innsbruck,Skating,Figure skating, Lyudmila pakhomova,Russia,Women,Ice Dancing,Gold
+1976,Innsbruck,Skating,Figure skating, Irina moiseyeva,Russia,Women,Ice Dancing,Silver
+1976,Innsbruck,Skating,Figure skating, Christine errath,Germany,Women,Individual,Bronze
+1976,Innsbruck,Skating,Figure skating, Dorothy hamill,USA,Women,Individual,Gold
+1976,Innsbruck,Skating,Figure skating, Dianne de leeuw,Netherlands,Women,Individual,Silver
+1976,Innsbruck,Skating,Figure skating, Manuela gross,Germany,Women,Pairs,Bronze
+1976,Innsbruck,Skating,Figure skating, Irina rodnina,Russia,Women,Pairs,Gold
+1976,Innsbruck,Skating,Figure skating, Romy kermer,Germany,Women,Pairs,Silver
+1976,Innsbruck,Skating,Speed skating, Sheila young,USA,Women,1000M,Bronze
+1976,Innsbruck,Skating,Speed skating, Tatyana averina,Russia,Women,1000M,Gold
+1976,Innsbruck,Skating,Speed skating, Leah mueller,USA,Women,1000M,Silver
+1976,Innsbruck,Skating,Speed skating, Tatyana averina,Russia,Women,1500M,Bronze
+1976,Innsbruck,Skating,Speed skating, Galina stepanskaya,Russia,Women,1500M,Gold
+1976,Innsbruck,Skating,Speed skating, Sheila young,USA,Women,1500M,Silver
+1976,Innsbruck,Skating,Speed skating, Lisbeth korsmo,Norway,Women,3000M,Bronze
+1976,Innsbruck,Skating,Speed skating, Tatyana averina,Russia,Women,3000M,Gold
+1976,Innsbruck,Skating,Speed skating, Andrea ehrig,Germany,Women,3000M,Silver
+1976,Innsbruck,Skating,Speed skating, Tatyana averina,Russia,Women,500M,Bronze
+1976,Innsbruck,Skating,Speed skating, Sheila young,USA,Women,500M,Gold
+1976,Innsbruck,Skating,Speed skating, Cathy priestner,Canada,Women,500M,Silver
+1976,Innsbruck,Skiing,Alpine Skiing, Cynthia nelson,USA,Women,Downhill,Bronze
+1976,Innsbruck,Skiing,Alpine Skiing, Rosi mittermaier,Germany,Women,Downhill,Gold
+1976,Innsbruck,Skiing,Alpine Skiing, Brigitte totschnigg,Austria,Women,Downhill,Silver
+1976,Innsbruck,Skiing,Alpine Skiing, Danièle debernard,France,Women,Giant Slalom,Bronze
+1976,Innsbruck,Skiing,Alpine Skiing, Kathy kreiner,Canada,Women,Giant Slalom,Gold
+1976,Innsbruck,Skiing,Alpine Skiing, Rosi mittermaier,Germany,Women,Giant Slalom,Silver
+1976,Innsbruck,Skiing,Alpine Skiing, Hanni wenzel,Liechtenstein,Women,Slalom,Bronze
+1976,Innsbruck,Skiing,Alpine Skiing, Rosi mittermaier,Germany,Women,Slalom,Gold
+1976,Innsbruck,Skiing,Alpine Skiing, Claudia giordani,Italy,Women,Slalom,Silver
+1976,Innsbruck,Skiing,Cross Country Skiing, Galina kulakova,Russia,Women,10KM,Bronze
+1976,Innsbruck,Skiing,Cross Country Skiing, Raisa smetanina,Russia,Women,10KM,Gold
+1976,Innsbruck,Skiing,Cross Country Skiing, Helena takalo,Finland,Women,10KM,Silver
+1976,Innsbruck,Skiing,Cross Country Skiing, Monika debertshäuser,Germany,Women,4X5KM Relay,Bronze
+1976,Innsbruck,Skiing,Cross Country Skiing, Sigrun krause,Germany,Women,4X5KM Relay,Bronze
+1976,Innsbruck,Skiing,Cross Country Skiing, Barbara petzold,Germany,Women,4X5KM Relay,Bronze
+1976,Innsbruck,Skiing,Cross Country Skiing, Veronika schmidt,Germany,Women,4X5KM Relay,Bronze
+1976,Innsbruck,Skiing,Cross Country Skiing, Zinaida amosova,Russia,Women,4X5KM Relay,Gold
+1976,Innsbruck,Skiing,Cross Country Skiing, Nina baldycheva,Russia,Women,4X5KM Relay,Gold
+1976,Innsbruck,Skiing,Cross Country Skiing, Galina kulakova,Russia,Women,4X5KM Relay,Gold
+1976,Innsbruck,Skiing,Cross Country Skiing, Raisa smetanina,Russia,Women,4X5KM Relay,Gold
+1976,Innsbruck,Skiing,Cross Country Skiing, Marjatta kajosmaa,Finland,Women,4X5KM Relay,Silver
+1976,Innsbruck,Skiing,Cross Country Skiing, Hilkka riihivuori,Finland,Women,4X5KM Relay,Silver
+1976,Innsbruck,Skiing,Cross Country Skiing, Liisa suikhonen,Finland,Women,4X5KM Relay,Silver
+1976,Innsbruck,Skiing,Cross Country Skiing, Helena takalo,Finland,Women,4X5KM Relay,Silver
+1976,Innsbruck,Skiing,Cross Country Skiing, Nina baldycheva,Russia,Women,5KM,Bronze
+1976,Innsbruck,Skiing,Cross Country Skiing, Helena takalo,Finland,Women,5KM,Gold
+1976,Innsbruck,Skiing,Cross Country Skiing, Raisa smetanina,Russia,Women,5KM,Silver
+1980,Lake Placid,Luge,Luge, Ingrida amantova,Russia,Women,Singles,Bronze
+1980,Lake Placid,Luge,Luge, Vera zozula,Russia,Women,Singles,Gold
+1980,Lake Placid,Luge,Luge, Melitta sollmann,Germany,Women,Singles,Silver
+1980,Lake Placid,Skating,Figure skating, Irina moiseyeva,Russia,Women,Ice Dancing,Bronze
+1980,Lake Placid,Skating,Figure skating, Natalya linichuk,Russia,Women,Ice Dancing,Gold
+1980,Lake Placid,Skating,Figure skating, Krisztina regöczy,Hungary,Women,Ice Dancing,Silver
+1980,Lake Placid,Skating,Figure skating, Dagmar lurz,Germany,Women,Individual,Bronze
+1980,Lake Placid,Skating,Figure skating, Anett pötzsch,Germany,Women,Individual,Gold
+1980,Lake Placid,Skating,Figure skating, Linda fratianne,USA,Women,Individual,Silver
+1980,Lake Placid,Skating,Figure skating, Manuela mager,Germany,Women,Pairs,Bronze
+1980,Lake Placid,Skating,Figure skating, Irina rodnina,Russia,Women,Pairs,Gold
+1980,Lake Placid,Skating,Figure skating, Marina cherkasova,Russia,Women,Pairs,Silver
+1980,Lake Placid,Skating,Speed skating, Silvia albrecht,Germany,Women,1000M,Bronze
+1980,Lake Placid,Skating,Speed skating, Natalya petruseva,Russia,Women,1000M,Gold
+1980,Lake Placid,Skating,Speed skating, Leah mueller,USA,Women,1000M,Silver
+1980,Lake Placid,Skating,Speed skating, Sabine becker,Germany,Women,1500M,Bronze
+1980,Lake Placid,Skating,Speed skating, Annie borckink,Netherlands,Women,1500M,Gold
+1980,Lake Placid,Skating,Speed skating, Adriana visser,Netherlands,Women,1500M,Silver
+1980,Lake Placid,Skating,Speed skating, Beth heiden,USA,Women,3000M,Bronze
+1980,Lake Placid,Skating,Speed skating, Björg Eva jensen,Norway,Women,3000M,Gold
+1980,Lake Placid,Skating,Speed skating, Sabine becker,Germany,Women,3000M,Silver
+1980,Lake Placid,Skating,Speed skating, Natalya petruseva,Russia,Women,500M,Bronze
+1980,Lake Placid,Skating,Speed skating, Karin kania,Germany,Women,500M,Gold
+1980,Lake Placid,Skating,Speed skating, Leah mueller,USA,Women,500M,Silver
+1980,Lake Placid,Skiing,Alpine Skiing, Marie-Theres nadig,Switzerland,Women,Downhill,Bronze
+1980,Lake Placid,Skiing,Alpine Skiing, Annemarie moser-proll,Austria,Women,Downhill,Gold
+1980,Lake Placid,Skiing,Alpine Skiing, Hanni wenzel,Liechtenstein,Women,Downhill,Silver
+1980,Lake Placid,Skiing,Alpine Skiing, Perrine pelen,France,Women,Giant Slalom,Bronze
+1980,Lake Placid,Skiing,Alpine Skiing, Hanni wenzel,Liechtenstein,Women,Giant Slalom,Gold
+1980,Lake Placid,Skiing,Alpine Skiing, Irene epple,Germany,Women,Giant Slalom,Silver
+1980,Lake Placid,Skiing,Alpine Skiing, Erika hess,Switzerland,Women,Slalom,Bronze
+1980,Lake Placid,Skiing,Alpine Skiing, Hanni wenzel,Liechtenstein,Women,Slalom,Gold
+1980,Lake Placid,Skiing,Alpine Skiing, Christa kinshofer guethlein,Germany,Women,Slalom,Silver
+1980,Lake Placid,Skiing,Cross Country Skiing, Helena takalo,Finland,Women,10KM,Bronze
+1980,Lake Placid,Skiing,Cross Country Skiing, Barbara petzold,Germany,Women,10KM,Gold
+1980,Lake Placid,Skiing,Cross Country Skiing, Hilkka riihivuori,Finland,Women,10KM,Silver
+1980,Lake Placid,Skiing,Cross Country Skiing, Berit aunli,Norway,Women,4X5KM Relay,Bronze
+1980,Lake Placid,Skiing,Cross Country Skiing, Anette böe,Norway,Women,4X5KM Relay,Bronze
+1980,Lake Placid,Skiing,Cross Country Skiing, Marit myrmael,Norway,Women,4X5KM Relay,Bronze
+1980,Lake Placid,Skiing,Cross Country Skiing, Brit pettersen,Norway,Women,4X5KM Relay,Bronze
+1980,Lake Placid,Skiing,Cross Country Skiing, Carola anding,Germany,Women,4X5KM Relay,Gold
+1980,Lake Placid,Skiing,Cross Country Skiing, Barbara petzold,Germany,Women,4X5KM Relay,Gold
+1980,Lake Placid,Skiing,Cross Country Skiing, Marlies rostock,Germany,Women,4X5KM Relay,Gold
+1980,Lake Placid,Skiing,Cross Country Skiing, Veronika schmidt,Germany,Women,4X5KM Relay,Gold
+1980,Lake Placid,Skiing,Cross Country Skiing, Nina baldycheva,Russia,Women,4X5KM Relay,Silver
+1980,Lake Placid,Skiing,Cross Country Skiing, Galina kulakova,Russia,Women,4X5KM Relay,Silver
+1980,Lake Placid,Skiing,Cross Country Skiing, Nina rocheva,Russia,Women,4X5KM Relay,Silver
+1980,Lake Placid,Skiing,Cross Country Skiing, Raisa smetanina,Russia,Women,4X5KM Relay,Silver
+1980,Lake Placid,Skiing,Cross Country Skiing, Kvetoslava jeriova,Czech Republic,Women,5KM,Bronze
+1980,Lake Placid,Skiing,Cross Country Skiing, Raisa smetanina,Russia,Women,5KM,Gold
+1980,Lake Placid,Skiing,Cross Country Skiing, Hilkka riihivuori,Finland,Women,5KM,Silver
+1984,Sarajevo,Luge,Luge, Ute oberhoffner,Germany,Women,Singles,Bronze
+1984,Sarajevo,Luge,Luge, Steffi walter,Germany,Women,Singles,Gold
+1984,Sarajevo,Luge,Luge, Bettina schmidt,Germany,Women,Singles,Silver
+1984,Sarajevo,Skating,Figure skating, Marina klimova,Russia,Women,Ice Dancing,Bronze
+1984,Sarajevo,Skating,Figure skating, Jayne torvill,UK,Women,Ice Dancing,Gold
+1984,Sarajevo,Skating,Figure skating, Natalya bestemyanova,Russia,Women,Ice Dancing,Silver
+1984,Sarajevo,Skating,Figure skating, Kira ivanova,Russia,Women,Individual,Bronze
+1984,Sarajevo,Skating,Figure skating, Katarina witt,Germany,Women,Individual,Gold
+1984,Sarajevo,Skating,Figure skating, Rosalyn sumners,USA,Women,Individual,Silver
+1984,Sarajevo,Skating,Figure skating, Larisa seleznyova,Russia,Women,Pairs,Bronze
+1984,Sarajevo,Skating,Figure skating, Yelena valova,Russia,Women,Pairs,Gold
+1984,Sarajevo,Skating,Figure skating, Kitty carruthers,USA,Women,Pairs,Silver
+1984,Sarajevo,Skating,Speed skating, Natalya petruseva,Russia,Women,1000M,Bronze
+1984,Sarajevo,Skating,Speed skating, Karin kania,Germany,Women,1000M,Gold
+1984,Sarajevo,Skating,Speed skating, Andrea ehrig,Germany,Women,1000M,Silver
+1984,Sarajevo,Skating,Speed skating, Natalya petruseva,Russia,Women,1500M,Bronze
+1984,Sarajevo,Skating,Speed skating, Karin kania,Germany,Women,1500M,Gold
+1984,Sarajevo,Skating,Speed skating, Andrea ehrig,Germany,Women,1500M,Silver
+1984,Sarajevo,Skating,Speed skating, Gabi zange,Germany,Women,3000M,Bronze
+1984,Sarajevo,Skating,Speed skating, Andrea ehrig,Germany,Women,3000M,Gold
+1984,Sarajevo,Skating,Speed skating, Karin kania,Germany,Women,3000M,Silver
+1984,Sarajevo,Skating,Speed skating, Natalya shive,Russia,Women,500M,Bronze
+1984,Sarajevo,Skating,Speed skating, Christa luding,Germany,Women,500M,Gold
+1984,Sarajevo,Skating,Speed skating, Karin kania,Germany,Women,500M,Silver
+1984,Sarajevo,Skiing,Alpine Skiing, Olga charvatova,Czech Republic,Women,Downhill,Bronze
+1984,Sarajevo,Skiing,Alpine Skiing, Michela figini,Switzerland,Women,Downhill,Gold
+1984,Sarajevo,Skiing,Alpine Skiing, Maria walliser,Switzerland,Women,Downhill,Silver
+1984,Sarajevo,Skiing,Alpine Skiing, Perrine pelen,France,Women,Giant Slalom,Bronze
+1984,Sarajevo,Skiing,Alpine Skiing, Debbie armstrong,USA,Women,Giant Slalom,Gold
+1984,Sarajevo,Skiing,Alpine Skiing, Christin cooper,USA,Women,Giant Slalom,Silver
+1984,Sarajevo,Skiing,Alpine Skiing, Ursula konzett,Liechtenstein,Women,Slalom,Bronze
+1984,Sarajevo,Skiing,Alpine Skiing, Paoletta magoni,Italy,Women,Slalom,Gold
+1984,Sarajevo,Skiing,Alpine Skiing, Perrine pelen,France,Women,Slalom,Silver
+1984,Sarajevo,Skiing,Cross Country Skiing, Brit pettersen,Norway,Women,10KM,Bronze
+1984,Sarajevo,Skiing,Cross Country Skiing, Marja-Liisa kirvesniemi,Finland,Women,10KM,Gold
+1984,Sarajevo,Skiing,Cross Country Skiing, Raisa smetanina,Russia,Women,10KM,Silver
+1984,Sarajevo,Skiing,Cross Country Skiing, Anne jahren,Norway,Women,20KM,Bronze
+1984,Sarajevo,Skiing,Cross Country Skiing, Marja-Liisa kirvesniemi,Finland,Women,20KM,Gold
+1984,Sarajevo,Skiing,Cross Country Skiing, Raisa smetanina,Russia,Women,20KM,Silver
+1984,Sarajevo,Skiing,Cross Country Skiing, Eija hyytiainen,Finland,Women,4X5KM Relay,Bronze
+1984,Sarajevo,Skiing,Cross Country Skiing, Marja-Liisa kirvesniemi,Finland,Women,4X5KM Relay,Bronze
+1984,Sarajevo,Skiing,Cross Country Skiing, Pirkko määttä,Finland,Women,4X5KM Relay,Bronze
+1984,Sarajevo,Skiing,Cross Country Skiing, Marjo matikainen,Finland,Women,4X5KM Relay,Bronze
+1984,Sarajevo,Skiing,Cross Country Skiing, Berit aunli,Norway,Women,4X5KM Relay,Gold
+1984,Sarajevo,Skiing,Cross Country Skiing, Anne jahren,Norway,Women,4X5KM Relay,Gold
+1984,Sarajevo,Skiing,Cross Country Skiing, Inger Helene nybraaten,Norway,Women,4X5KM Relay,Gold
+1984,Sarajevo,Skiing,Cross Country Skiing, Brit pettersen,Norway,Women,4X5KM Relay,Gold
+1984,Sarajevo,Skiing,Cross Country Skiing, Kvetoslava jeriova,Czech Republic,Women,4X5KM Relay,Silver
+1984,Sarajevo,Skiing,Cross Country Skiing, Blanka paulu,Czech Republic,Women,4X5KM Relay,Silver
+1984,Sarajevo,Skiing,Cross Country Skiing, Dagmar schvubova,Czech Republic,Women,4X5KM Relay,Silver
+1984,Sarajevo,Skiing,Cross Country Skiing, Gabriela svobodova,Czech Republic,Women,4X5KM Relay,Silver
+1984,Sarajevo,Skiing,Cross Country Skiing, Kvetoslava jeriova,Czech Republic,Women,5KM,Bronze
+1984,Sarajevo,Skiing,Cross Country Skiing, Marja-Liisa kirvesniemi,Finland,Women,5KM,Gold
+1984,Sarajevo,Skiing,Cross Country Skiing, Berit aunli,Norway,Women,5KM,Silver
+1988,Calgary,Luge,Luge, Cerstin schmidt,Germany,Women,Singles,Bronze
+1988,Calgary,Luge,Luge, Steffi walter,Germany,Women,Singles,Gold
+1988,Calgary,Luge,Luge, Ute oberhoffner,Germany,Women,Singles,Silver
+1988,Calgary,Skating,Figure skating, Tracy wilson,Canada,Women,Ice Dancing,Bronze
+1988,Calgary,Skating,Figure skating, Natalya bestemyanova,Russia,Women,Ice Dancing,Gold
+1988,Calgary,Skating,Figure skating, Marina klimova,Russia,Women,Ice Dancing,Silver
+1988,Calgary,Skating,Figure skating, Debra thomas,USA,Women,Individual,Bronze
+1988,Calgary,Skating,Figure skating, Katarina witt,Germany,Women,Individual,Gold
+1988,Calgary,Skating,Figure skating, Elizabeth manley,Canada,Women,Individual,Silver
+1988,Calgary,Skating,Figure skating, Jill watson,USA,Women,Pairs,Bronze
+1988,Calgary,Skating,Figure skating, Yekaterina gordeyeva,Russia,Women,Pairs,Gold
+1988,Calgary,Skating,Figure skating, Yelena valova,Russia,Women,Pairs,Silver
+1988,Calgary,Skating,Speed skating, Bonnie blair,USA,Women,1000M,Bronze
+1988,Calgary,Skating,Speed skating, Christa luding,Germany,Women,1000M,Gold
+1988,Calgary,Skating,Speed skating, Karin kania,Germany,Women,1000M,Silver
+1988,Calgary,Skating,Speed skating, Andrea ehrig,Germany,Women,1500M,Bronze
+1988,Calgary,Skating,Speed skating, Yvonne van gennip,Netherlands,Women,1500M,Gold
+1988,Calgary,Skating,Speed skating, Karin kania,Germany,Women,1500M,Silver
+1988,Calgary,Skating,Speed skating, Gabi zange,Germany,Women,3000M,Bronze
+1988,Calgary,Skating,Speed skating, Yvonne van gennip,Netherlands,Women,3000M,Gold
+1988,Calgary,Skating,Speed skating, Andrea ehrig,Germany,Women,3000M,Silver
+1988,Calgary,Skating,Speed skating, Gabi zange,Germany,Women,5000M,Bronze
+1988,Calgary,Skating,Speed skating, Yvonne van gennip,Netherlands,Women,5000M,Gold
+1988,Calgary,Skating,Speed skating, Andrea ehrig,Germany,Women,5000M,Silver
+1988,Calgary,Skating,Speed skating, Karin kania,Germany,Women,500M,Bronze
+1988,Calgary,Skating,Speed skating, Bonnie blair,USA,Women,500M,Gold
+1988,Calgary,Skating,Speed skating, Christa luding,Germany,Women,500M,Silver
+1988,Calgary,Skiing,Alpine Skiing, Maria walliser,Switzerland,Women,Alpine Combined,Bronze
+1988,Calgary,Skiing,Alpine Skiing, Anita wachter,Austria,Women,Alpine Combined,Gold
+1988,Calgary,Skiing,Alpine Skiing, Brigitte oertli,Switzerland,Women,Alpine Combined,Silver
+1988,Calgary,Skiing,Alpine Skiing, Karen percy,Canada,Women,Downhill,Bronze
+1988,Calgary,Skiing,Alpine Skiing, Marina kiehl,Germany,Women,Downhill,Gold
+1988,Calgary,Skiing,Alpine Skiing, Brigitte oertli,Switzerland,Women,Downhill,Silver
+1988,Calgary,Skiing,Alpine Skiing, Maria walliser,Switzerland,Women,Giant Slalom,Bronze
+1988,Calgary,Skiing,Alpine Skiing, Vreni schneider,Switzerland,Women,Giant Slalom,Gold
+1988,Calgary,Skiing,Alpine Skiing, Christa kinshofer guethlein,Germany,Women,Giant Slalom,Silver
+1988,Calgary,Skiing,Alpine Skiing, Christa kinshofer guethlein,Germany,Women,Slalom,Bronze
+1988,Calgary,Skiing,Alpine Skiing, Vreni schneider,Switzerland,Women,Slalom,Gold
+1988,Calgary,Skiing,Alpine Skiing, Mateja svet,Serbia,Women,Slalom,Silver
+1988,Calgary,Skiing,Alpine Skiing, Karen percy,Canada,Women,Super-G,Bronze
+1988,Calgary,Skiing,Alpine Skiing, Sigrid wolf,Austria,Women,Super-G,Gold
+1988,Calgary,Skiing,Alpine Skiing, Michela figini,Switzerland,Women,Super-G,Silver
+1988,Calgary,Skiing,Cross Country Skiing, Marjo matikainen,Finland,Women,10KM,Bronze
+1988,Calgary,Skiing,Cross Country Skiing, Vida venciene,Russia,Women,10KM,Gold
+1988,Calgary,Skiing,Cross Country Skiing, Raisa smetanina,Russia,Women,10KM,Silver
+1988,Calgary,Skiing,Cross Country Skiing, Raisa smetanina,Russia,Women,20KM,Bronze
+1988,Calgary,Skiing,Cross Country Skiing, Tamara tikhonova,Russia,Women,20KM,Gold
+1988,Calgary,Skiing,Cross Country Skiing, Anfisa reztsova,Russia,Women,20KM,Silver
+1988,Calgary,Skiing,Cross Country Skiing, Marja-Liisa kirvesniemi,Finland,Women,4X5KM Relay,Bronze
+1988,Calgary,Skiing,Cross Country Skiing, Pirkko määttä,Finland,Women,4X5KM Relay,Bronze
+1988,Calgary,Skiing,Cross Country Skiing, Marjo matikainen,Finland,Women,4X5KM Relay,Bronze
+1988,Calgary,Skiing,Cross Country Skiing, Jaana savolainen,Finland,Women,4X5KM Relay,Bronze
+1988,Calgary,Skiing,Cross Country Skiing, Nina gavriljuk,Russia,Women,4X5KM Relay,Gold
+1988,Calgary,Skiing,Cross Country Skiing, Svetlana nageikina,Russia,Women,4X5KM Relay,Gold
+1988,Calgary,Skiing,Cross Country Skiing, Anfisa reztsova,Russia,Women,4X5KM Relay,Gold
+1988,Calgary,Skiing,Cross Country Skiing, Tamara tikhonova,Russia,Women,4X5KM Relay,Gold
+1988,Calgary,Skiing,Cross Country Skiing, Marianne dahlmo,Norway,Women,4X5KM Relay,Silver
+1988,Calgary,Skiing,Cross Country Skiing, Trude dybendahl hartz,Norway,Women,4X5KM Relay,Silver
+1988,Calgary,Skiing,Cross Country Skiing, Anne jahren,Norway,Women,4X5KM Relay,Silver
+1988,Calgary,Skiing,Cross Country Skiing, Marit mikkelsplass,Norway,Women,4X5KM Relay,Silver
+1988,Calgary,Skiing,Cross Country Skiing, Vida venciene,Russia,Women,5KM,Bronze
+1988,Calgary,Skiing,Cross Country Skiing, Marjo matikainen,Finland,Women,5KM,Gold
+1988,Calgary,Skiing,Cross Country Skiing, Tamara tikhonova,Russia,Women,5KM,Silver
+1992,Albertville,Biathlon,Biathlon, Myriam bedard,Canada,Women,15KM,Bronze
+1992,Albertville,Biathlon,Biathlon, Antje harvey,Germany,Women,15KM,Gold
+1992,Albertville,Biathlon,Biathlon, Svetlana pecherskaya,Russia,Women,15KM,Silver
+1992,Albertville,Biathlon,Biathlon, Yelena belova,Russia,Women,4X7.5KM Relay,Bronze
+1992,Albertville,Biathlon,Biathlon, Elena melnikova,Russia,Women,4X7.5KM Relay,Bronze
+1992,Albertville,Biathlon,Biathlon, Anfisa reztsova,Russia,Women,4X7.5KM Relay,Bronze
+1992,Albertville,Biathlon,Biathlon, Anne briand bouthiaux,France,Women,4X7.5KM Relay,Gold
+1992,Albertville,Biathlon,Biathlon, Véronique claudel,France,Women,4X7.5KM Relay,Gold
+1992,Albertville,Biathlon,Biathlon, Corinne niogret,France,Women,4X7.5KM Relay,Gold
+1992,Albertville,Biathlon,Biathlon, Uschi disl,Germany,Women,4X7.5KM Relay,Silver
+1992,Albertville,Biathlon,Biathlon, Antje harvey,Germany,Women,4X7.5KM Relay,Silver
+1992,Albertville,Biathlon,Biathlon, Petra schaaf,Germany,Women,4X7.5KM Relay,Silver
+1992,Albertville,Biathlon,Biathlon, Yelena belova,Russia,Women,7.5KM,Bronze
+1992,Albertville,Biathlon,Biathlon, Anfisa reztsova,Russia,Women,7.5KM,Gold
+1992,Albertville,Biathlon,Biathlon, Antje harvey,Germany,Women,7.5KM,Silver
+1992,Albertville,Luge,Luge, Susi-Lisa erdmann,Germany,Women,Singles,Bronze
+1992,Albertville,Luge,Luge, Doris neuner,Austria,Women,Singles,Gold
+1992,Albertville,Luge,Luge, Angelika neuner,Austria,Women,Singles,Silver
+1992,Albertville,Skating,Figure skating, Maya usova,Russia,Women,Ice Dancing,Bronze
+1992,Albertville,Skating,Figure skating, Marina klimova,Russia,Women,Ice Dancing,Gold
+1992,Albertville,Skating,Figure skating, Isabelle duchesnay-dean,France,Women,Ice Dancing,Silver
+1992,Albertville,Skating,Figure skating, Nancy kerrigan,USA,Women,Individual,Bronze
+1992,Albertville,Skating,Figure skating, Kristi yamaguchi,USA,Women,Individual,Gold
+1992,Albertville,Skating,Figure skating, Midori ito,Japan,Women,Individual,Silver
+1992,Albertville,Skating,Figure skating, Isabelle brasseur,Canada,Women,Pairs,Bronze
+1992,Albertville,Skating,Figure skating, Natalya mishkutyonok,Russia,Women,Pairs,Gold
+1992,Albertville,Skating,Figure skating, Yelena bechke,Russia,Women,Pairs,Silver
+1992,Albertville,Skating,Short Track Speed Skating, Yulia alagulova,Russia,Women,3000M Relay,Bronze
+1992,Albertville,Skating,Short Track Speed Skating, Natalia issakova,Russia,Women,3000M Relay,Bronze
+1992,Albertville,Skating,Short Track Speed Skating, Viktoria troitskaya,Russia,Women,3000M Relay,Bronze
+1992,Albertville,Skating,Short Track Speed Skating, Yulia vlasova,Russia,Women,3000M Relay,Bronze
+1992,Albertville,Skating,Short Track Speed Skating, Angela cutrone,Canada,Women,3000M Relay,Gold
+1992,Albertville,Skating,Short Track Speed Skating, Sylvie daigle,Canada,Women,3000M Relay,Gold
+1992,Albertville,Skating,Short Track Speed Skating, Nathalie lambert,Canada,Women,3000M Relay,Gold
+1992,Albertville,Skating,Short Track Speed Skating, Annie perreault,Canada,Women,3000M Relay,Gold
+1992,Albertville,Skating,Short Track Speed Skating, Darcie dohnal,USA,Women,3000M Relay,Silver
+1992,Albertville,Skating,Short Track Speed Skating, Amy peterson,USA,Women,3000M Relay,Silver
+1992,Albertville,Skating,Short Track Speed Skating, Cathy turner,USA,Women,3000M Relay,Silver
+1992,Albertville,Skating,Short Track Speed Skating, Nikki ziegelmeyer,USA,Women,3000M Relay,Silver
+1992,Albertville,Skating,Short Track Speed Skating, Ok Sil hwang,North Korea,Women,500M,Bronze
+1992,Albertville,Skating,Short Track Speed Skating, Cathy turner,USA,Women,500M,Gold
+1992,Albertville,Skating,Short Track Speed Skating, Yan li,China,Women,500M,Silver
+1992,Albertville,Skating,Speed skating, Monique garbrecht-enfeldt,Germany,Women,1000M,Bronze
+1992,Albertville,Skating,Speed skating, Bonnie blair,USA,Women,1000M,Gold
+1992,Albertville,Skating,Speed skating, Qiaobo ye,China,Women,1000M,Silver
+1992,Albertville,Skating,Speed skating, Seiko hashimoto,Japan,Women,1500M,Bronze
+1992,Albertville,Skating,Speed skating, Jacqueline börner,Germany,Women,1500M,Gold
+1992,Albertville,Skating,Speed skating, Gunda niemann-stirnemann,Germany,Women,1500M,Silver
+1992,Albertville,Skating,Speed skating, Emese hunyady,Austria,Women,3000M,Bronze
+1992,Albertville,Skating,Speed skating, Gunda niemann-stirnemann,Germany,Women,3000M,Gold
+1992,Albertville,Skating,Speed skating, Heike warnicke,Germany,Women,3000M,Silver
+1992,Albertville,Skating,Speed skating, Claudia pechstein,Germany,Women,5000M,Bronze
+1992,Albertville,Skating,Speed skating, Gunda niemann-stirnemann,Germany,Women,5000M,Gold
+1992,Albertville,Skating,Speed skating, Heike warnicke,Germany,Women,5000M,Silver
+1992,Albertville,Skating,Speed skating, Christa luding,Germany,Women,500M,Bronze
+1992,Albertville,Skating,Speed skating, Bonnie blair,USA,Women,500M,Gold
+1992,Albertville,Skating,Speed skating, Qiaobo ye,China,Women,500M,Silver
+1992,Albertville,Skiing,Alpine Skiing, Florence masnada,France,Women,Alpine Combined,Bronze
+1992,Albertville,Skiing,Alpine Skiing, Petra kronberger,Austria,Women,Alpine Combined,Gold
+1992,Albertville,Skiing,Alpine Skiing, Anita wachter,Austria,Women,Alpine Combined,Silver
+1992,Albertville,Skiing,Alpine Skiing, Veronika stallmaier,Austria,Women,Downhill,Bronze
+1992,Albertville,Skiing,Alpine Skiing, Kerrin lee-gartner,Canada,Women,Downhill,Gold
+1992,Albertville,Skiing,Alpine Skiing, Hilary lindh,USA,Women,Downhill,Silver
+1992,Albertville,Skiing,Alpine Skiing, Pernilla wiberg,Sweden,Women,Giant Slalom,Gold
+1992,Albertville,Skiing,Alpine Skiing, Anita wachter,Austria,Women,Giant Slalom,Silver
+1992,Albertville,Skiing,Alpine Skiing, Diann roffe,USA,Women,Giant Slalom,Silver
+1992,Albertville,Skiing,Alpine Skiing, Blanca fernandez ochoa,Spain,Women,Slalom,Bronze
+1992,Albertville,Skiing,Alpine Skiing, Petra kronberger,Austria,Women,Slalom,Gold
+1992,Albertville,Skiing,Alpine Skiing, Annelise coberger,New Zealand,Women,Slalom,Silver
+1992,Albertville,Skiing,Alpine Skiing, Katja seizinger,Germany,Women,Super-G,Bronze
+1992,Albertville,Skiing,Alpine Skiing, Deborah compagnoni,Italy,Women,Super-G,Gold
+1992,Albertville,Skiing,Alpine Skiing, Carole merle,France,Women,Super-G,Silver
+1992,Albertville,Skiing,Cross Country Skiing, Elena vaelbe,Russia,Women,15KM Mass Start,Bronze
+1992,Albertville,Skiing,Cross Country Skiing, Ljubov egorova,Russia,Women,15KM Mass Start,Gold
+1992,Albertville,Skiing,Cross Country Skiing, Marjut rolig,Finland,Women,15KM Mass Start,Silver
+1992,Albertville,Skiing,Cross Country Skiing, Elena vaelbe,Russia,Women,30KM,Bronze
+1992,Albertville,Skiing,Cross Country Skiing, Stefania belmondo,Italy,Women,30KM,Gold
+1992,Albertville,Skiing,Cross Country Skiing, Ljubov egorova,Russia,Women,30KM,Silver
+1992,Albertville,Skiing,Cross Country Skiing, Stefania belmondo,Italy,Women,4X5KM Relay,Bronze
+1992,Albertville,Skiing,Cross Country Skiing, Manuela di centa,Italy,Women,4X5KM Relay,Bronze
+1992,Albertville,Skiing,Cross Country Skiing, Gabriella paruzzi,Italy,Women,4X5KM Relay,Bronze
+1992,Albertville,Skiing,Cross Country Skiing, Bice vanzetta,Italy,Women,4X5KM Relay,Bronze
+1992,Albertville,Skiing,Cross Country Skiing, Ljubov egorova,Russia,Women,4X5KM Relay,Gold
+1992,Albertville,Skiing,Cross Country Skiing, Larissa lazutina,Russia,Women,4X5KM Relay,Gold
+1992,Albertville,Skiing,Cross Country Skiing, Raisa smetanina,Russia,Women,4X5KM Relay,Gold
+1992,Albertville,Skiing,Cross Country Skiing, Elena vaelbe,Russia,Women,4X5KM Relay,Gold
+1992,Albertville,Skiing,Cross Country Skiing, Trude dybendahl hartz,Norway,Women,4X5KM Relay,Silver
+1992,Albertville,Skiing,Cross Country Skiing, Elin nilsen,Norway,Women,4X5KM Relay,Silver
+1992,Albertville,Skiing,Cross Country Skiing, Inger Helene nybraaten,Norway,Women,4X5KM Relay,Silver
+1992,Albertville,Skiing,Cross Country Skiing, Solveig pedersen,Norway,Women,4X5KM Relay,Silver
+1992,Albertville,Skiing,Cross Country Skiing, Elena vaelbe,Russia,Women,5KM,Bronze
+1992,Albertville,Skiing,Cross Country Skiing, Marjut rolig,Finland,Women,5KM,Gold
+1992,Albertville,Skiing,Cross Country Skiing, Ljubov egorova,Russia,Women,5KM,Silver
+1992,Albertville,Skiing,Cross Country Skiing, Elena vaelbe,Russia,Women,Combined 5KM + 10KM Pursuit,Bronze
+1992,Albertville,Skiing,Cross Country Skiing, Ljubov egorova,Russia,Women,Combined 5KM + 10KM Pursuit,Gold
+1992,Albertville,Skiing,Cross Country Skiing, Stefania belmondo,Italy,Women,Combined 5KM + 10KM Pursuit,Silver
+1992,Albertville,Skiing,Freestyle Skiing, Stine Lise hattestad,Norway,Women,Moguls,Bronze
+1992,Albertville,Skiing,Freestyle Skiing, Donna weinbrecht,USA,Women,Moguls,Gold
+1992,Albertville,Skiing,Freestyle Skiing, Yelizaveta kozhevnikova,Russia,Women,Moguls,Silver
+1994,Lillehammer,Biathlon,Biathlon, Uschi disl,Germany,Women,15KM,Bronze
+1994,Lillehammer,Biathlon,Biathlon, Myriam bedard,Canada,Women,15KM,Gold
+1994,Lillehammer,Biathlon,Biathlon, Anne briand bouthiaux,France,Women,15KM,Silver
+1994,Lillehammer,Biathlon,Biathlon, Anne briand bouthiaux,France,Women,4X7.5KM Relay,Bronze
+1994,Lillehammer,Biathlon,Biathlon, Delphyne burlet,France,Women,4X7.5KM Relay,Bronze
+1994,Lillehammer,Biathlon,Biathlon, Véronique claudel,France,Women,4X7.5KM Relay,Bronze
+1994,Lillehammer,Biathlon,Biathlon, Corinne niogret,France,Women,4X7.5KM Relay,Bronze
+1994,Lillehammer,Biathlon,Biathlon, Louiza noskova,Russia,Women,4X7.5KM Relay,Gold
+1994,Lillehammer,Biathlon,Biathlon, Anfisa reztsova,Russia,Women,4X7.5KM Relay,Gold
+1994,Lillehammer,Biathlon,Biathlon, Natalia snytina,Russia,Women,4X7.5KM Relay,Gold
+1994,Lillehammer,Biathlon,Biathlon, Nadejda talanova,Russia,Women,4X7.5KM Relay,Gold
+1994,Lillehammer,Biathlon,Biathlon, Uschi disl,Germany,Women,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,Biathlon, Simone greiner-petter-memm,Germany,Women,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,Biathlon, Antje harvey,Germany,Women,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,Biathlon, Petra schaaf,Germany,Women,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,Biathlon, Valentyna tserbe-nessina,Ukraine,Women,7.5KM,Bronze
+1994,Lillehammer,Biathlon,Biathlon, Myriam bedard,Canada,Women,7.5KM,Gold
+1994,Lillehammer,Biathlon,Biathlon, Svetlana paramygina,Belarus,Women,7.5KM,Silver
+1994,Lillehammer,Luge,Luge, Andrea tagwerker,Austria,Women,Singles,Bronze
+1994,Lillehammer,Luge,Luge, Gerda weissensteiner,Italy,Women,Singles,Gold
+1994,Lillehammer,Luge,Luge, Susi-Lisa erdmann,Germany,Women,Singles,Silver
+1994,Lillehammer,Skating,Figure skating, Jayne torvill,UK,Women,Ice Dancing,Bronze
+1994,Lillehammer,Skating,Figure skating, Pasha grischuk,Russia,Women,Ice Dancing,Gold
+1994,Lillehammer,Skating,Figure skating, Maya usova,Russia,Women,Ice Dancing,Silver
+1994,Lillehammer,Skating,Figure skating, Lu chen,China,Women,Individual,Bronze
+1994,Lillehammer,Skating,Figure skating, Oksana baiul,Ukraine,Women,Individual,Gold
+1994,Lillehammer,Skating,Figure skating, Nancy kerrigan,USA,Women,Individual,Silver
+1994,Lillehammer,Skating,Figure skating, Isabelle brasseur,Canada,Women,Pairs,Bronze
+1994,Lillehammer,Skating,Figure skating, Yekaterina gordeyeva,Russia,Women,Pairs,Gold
+1994,Lillehammer,Skating,Figure skating, Natalya mishkutyonok,Russia,Women,Pairs,Silver
+1994,Lillehammer,Skating,Short Track Speed Skating, So-Hee kim,South Korea,Women,1000M,Bronze
+1994,Lillehammer,Skating,Short Track Speed Skating, Lee-Kyung chun,South Korea,Women,1000M,Gold
+1994,Lillehammer,Skating,Short Track Speed Skating, Nathalie lambert,Canada,Women,1000M,Silver
+1994,Lillehammer,Skating,Short Track Speed Skating, Karen cashman,USA,Women,3000M Relay,Bronze
+1994,Lillehammer,Skating,Short Track Speed Skating, Amy peterson,USA,Women,3000M Relay,Bronze
+1994,Lillehammer,Skating,Short Track Speed Skating, Shana sundstrom,USA,Women,3000M Relay,Bronze
+1994,Lillehammer,Skating,Short Track Speed Skating, Cathy turner,USA,Women,3000M Relay,Bronze
+1994,Lillehammer,Skating,Short Track Speed Skating, Nikki ziegelmeyer,USA,Women,3000M Relay,Bronze
+1994,Lillehammer,Skating,Short Track Speed Skating, Lee-Kyung chun,South Korea,Women,3000M Relay,Gold
+1994,Lillehammer,Skating,Short Track Speed Skating, Ryang-Hee kim,South Korea,Women,3000M Relay,Gold
+1994,Lillehammer,Skating,Short Track Speed Skating, So-Hee kim,South Korea,Women,3000M Relay,Gold
+1994,Lillehammer,Skating,Short Track Speed Skating, Yoon-Mi kim,South Korea,Women,3000M Relay,Gold
+1994,Lillehammer,Skating,Short Track Speed Skating, Hye-Kyung won,South Korea,Women,3000M Relay,Gold
+1994,Lillehammer,Skating,Short Track Speed Skating, Christine boudrias,Canada,Women,3000M Relay,Silver
+1994,Lillehammer,Skating,Short Track Speed Skating, Isabelle charest,Canada,Women,3000M Relay,Silver
+1994,Lillehammer,Skating,Short Track Speed Skating, Angela cutrone,Canada,Women,3000M Relay,Silver
+1994,Lillehammer,Skating,Short Track Speed Skating, Sylvie daigle,Canada,Women,3000M Relay,Silver
+1994,Lillehammer,Skating,Short Track Speed Skating, Nathalie lambert,Canada,Women,3000M Relay,Silver
+1994,Lillehammer,Skating,Short Track Speed Skating, Amy peterson,USA,Women,500M,Bronze
+1994,Lillehammer,Skating,Short Track Speed Skating, Cathy turner,USA,Women,500M,Gold
+1994,Lillehammer,Skating,Short Track Speed Skating, Yanmei zhang,China,Women,500M,Silver
+1994,Lillehammer,Skating,Speed skating, Qiaobo ye,China,Women,1000M,Bronze
+1994,Lillehammer,Skating,Speed skating, Bonnie blair,USA,Women,1000M,Gold
+1994,Lillehammer,Skating,Speed skating, Anke baier-loef,Germany,Women,1000M,Silver
+1994,Lillehammer,Skating,Speed skating, Gunda niemann-stirnemann,Germany,Women,1500M,Bronze
+1994,Lillehammer,Skating,Speed skating, Emese hunyady,Austria,Women,1500M,Gold
+1994,Lillehammer,Skating,Speed skating, Svetlana fedotkina,Russia,Women,1500M,Silver
+1994,Lillehammer,Skating,Speed skating, Claudia pechstein,Germany,Women,3000M,Bronze
+1994,Lillehammer,Skating,Speed skating, Svetlana bajanova,Russia,Women,3000M,Gold
+1994,Lillehammer,Skating,Speed skating, Emese hunyady,Austria,Women,3000M,Silver
+1994,Lillehammer,Skating,Speed skating, Hiromi yamamoto,Japan,Women,5000M,Bronze
+1994,Lillehammer,Skating,Speed skating, Claudia pechstein,Germany,Women,5000M,Gold
+1994,Lillehammer,Skating,Speed skating, Gunda niemann-stirnemann,Germany,Women,5000M,Silver
+1994,Lillehammer,Skating,Speed skating, Franziska schenk,Germany,Women,500M,Bronze
+1994,Lillehammer,Skating,Speed skating, Bonnie blair,USA,Women,500M,Gold
+1994,Lillehammer,Skating,Speed skating, Susan auch,Canada,Women,500M,Silver
+1994,Lillehammer,Skiing,Alpine Skiing, Alenka dovzan,Slovenia,Women,Alpine Combined,Bronze
+1994,Lillehammer,Skiing,Alpine Skiing, Pernilla wiberg,Sweden,Women,Alpine Combined,Gold
+1994,Lillehammer,Skiing,Alpine Skiing, Vreni schneider,Switzerland,Women,Alpine Combined,Silver
+1994,Lillehammer,Skiing,Alpine Skiing, Isolde kostner,Italy,Women,Downhill,Bronze
+1994,Lillehammer,Skiing,Alpine Skiing, Katja seizinger,Germany,Women,Downhill,Gold
+1994,Lillehammer,Skiing,Alpine Skiing, Picabo street,USA,Women,Downhill,Silver
+1994,Lillehammer,Skiing,Alpine Skiing, Vreni schneider,Switzerland,Women,Giant Slalom,Bronze
+1994,Lillehammer,Skiing,Alpine Skiing, Deborah compagnoni,Italy,Women,Giant Slalom,Gold
+1994,Lillehammer,Skiing,Alpine Skiing, Martina ertl,Germany,Women,Giant Slalom,Silver
+1994,Lillehammer,Skiing,Alpine Skiing, Katja koren,Slovenia,Women,Slalom,Bronze
+1994,Lillehammer,Skiing,Alpine Skiing, Vreni schneider,Switzerland,Women,Slalom,Gold
+1994,Lillehammer,Skiing,Alpine Skiing, Elfriede eder,Austria,Women,Slalom,Silver
+1994,Lillehammer,Skiing,Alpine Skiing, Isolde kostner,Italy,Women,Super-G,Bronze
+1994,Lillehammer,Skiing,Alpine Skiing, Diann roffe,USA,Women,Super-G,Gold
+1994,Lillehammer,Skiing,Alpine Skiing, Svetlana gladisheva,Russia,Women,Super-G,Silver
+1994,Lillehammer,Skiing,Cross Country Skiing, Nina gavriljuk,Russia,Women,15KM Mass Start,Bronze
+1994,Lillehammer,Skiing,Cross Country Skiing, Manuela di centa,Italy,Women,15KM Mass Start,Gold
+1994,Lillehammer,Skiing,Cross Country Skiing, Ljubov egorova,Russia,Women,15KM Mass Start,Silver
+1994,Lillehammer,Skiing,Cross Country Skiing, Marja-Liisa kirvesniemi,Finland,Women,30KM,Bronze
+1994,Lillehammer,Skiing,Cross Country Skiing, Manuela di centa,Italy,Women,30KM,Gold
+1994,Lillehammer,Skiing,Cross Country Skiing, Marit mikkelsplass,Norway,Women,30KM,Silver
+1994,Lillehammer,Skiing,Cross Country Skiing, Stefania belmondo,Italy,Women,4X5KM Relay,Bronze
+1994,Lillehammer,Skiing,Cross Country Skiing, Manuela di centa,Italy,Women,4X5KM Relay,Bronze
+1994,Lillehammer,Skiing,Cross Country Skiing, Gabriella paruzzi,Italy,Women,4X5KM Relay,Bronze
+1994,Lillehammer,Skiing,Cross Country Skiing, Bice vanzetta,Italy,Women,4X5KM Relay,Bronze
+1994,Lillehammer,Skiing,Cross Country Skiing, Ljubov egorova,Russia,Women,4X5KM Relay,Gold
+1994,Lillehammer,Skiing,Cross Country Skiing, Nina gavriljuk,Russia,Women,4X5KM Relay,Gold
+1994,Lillehammer,Skiing,Cross Country Skiing, Larissa lazutina,Russia,Women,4X5KM Relay,Gold
+1994,Lillehammer,Skiing,Cross Country Skiing, Elena vaelbe,Russia,Women,4X5KM Relay,Gold
+1994,Lillehammer,Skiing,Cross Country Skiing, Trude dybendahl hartz,Norway,Women,4X5KM Relay,Silver
+1994,Lillehammer,Skiing,Cross Country Skiing, Anita moen,Norway,Women,4X5KM Relay,Silver
+1994,Lillehammer,Skiing,Cross Country Skiing, Elin nilsen,Norway,Women,4X5KM Relay,Silver
+1994,Lillehammer,Skiing,Cross Country Skiing, Inger Helene nybraaten,Norway,Women,4X5KM Relay,Silver
+1994,Lillehammer,Skiing,Cross Country Skiing, Marja-Liisa kirvesniemi,Finland,Women,5KM,Bronze
+1994,Lillehammer,Skiing,Cross Country Skiing, Ljubov egorova,Russia,Women,5KM,Gold
+1994,Lillehammer,Skiing,Cross Country Skiing, Manuela di centa,Italy,Women,5KM,Silver
+1994,Lillehammer,Skiing,Cross Country Skiing, Stefania belmondo,Italy,Women,Combined 5KM + 10KM Pursuit,Bronze
+1994,Lillehammer,Skiing,Cross Country Skiing, Ljubov egorova,Russia,Women,Combined 5KM + 10KM Pursuit,Gold
+1994,Lillehammer,Skiing,Cross Country Skiing, Manuela di centa,Italy,Women,Combined 5KM + 10KM Pursuit,Silver
+1994,Lillehammer,Skiing,Freestyle Skiing, Hilde Synnove lid,Norway,Women,Aerials,Bronze
+1994,Lillehammer,Skiing,Freestyle Skiing, Lina cheryazova,Uzbekistan,Women,Aerials,Gold
+1994,Lillehammer,Skiing,Freestyle Skiing, Marie lindgren,Sweden,Women,Aerials,Silver
+1994,Lillehammer,Skiing,Freestyle Skiing, Yelizaveta kozhevnikova,Russia,Women,Moguls,Bronze
+1994,Lillehammer,Skiing,Freestyle Skiing, Stine Lise hattestad,Norway,Women,Moguls,Gold
+1994,Lillehammer,Skiing,Freestyle Skiing, Elizabeth mcintyre,USA,Women,Moguls,Silver
+1998,Nagano,Biathlon,Biathlon, Uschi disl,Germany,Women,15KM,Bronze
+1998,Nagano,Biathlon,Biathlon, Ekaterina dafovska,Bulgaria,Women,15KM,Gold
+1998,Nagano,Biathlon,Biathlon, Olena petrova,Ukraine,Women,15KM,Silver
+1998,Nagano,Biathlon,Biathlon, Gunn Margit andreassen,Norway,Women,4X7.5KM Relay,Bronze
+1998,Nagano,Biathlon,Biathlon, Liv Grete poiree,Norway,Women,4X7.5KM Relay,Bronze
+1998,Nagano,Biathlon,Biathlon, Annette sikveland,Norway,Women,4X7.5KM Relay,Bronze
+1998,Nagano,Biathlon,Biathlon, Ann Elen skjelbreid,Norway,Women,4X7.5KM Relay,Bronze
+1998,Nagano,Biathlon,Biathlon, Katrin apel,Germany,Women,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,Biathlon, Petra behle-schaaf,Germany,Women,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,Biathlon, Uschi disl,Germany,Women,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,Biathlon, Martina zellner,Germany,Women,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,Biathlon, Albina akhatova,Russia,Women,4X7.5KM Relay,Silver
+1998,Nagano,Biathlon,Biathlon, Galina koukleva,Russia,Women,4X7.5KM Relay,Silver
+1998,Nagano,Biathlon,Biathlon, Olga melnik,Russia,Women,4X7.5KM Relay,Silver
+1998,Nagano,Biathlon,Biathlon, Olga romasko,Russia,Women,4X7.5KM Relay,Silver
+1998,Nagano,Biathlon,Biathlon, Katrin apel,Germany,Women,7.5KM,Bronze
+1998,Nagano,Biathlon,Biathlon, Galina koukleva,Russia,Women,7.5KM,Gold
+1998,Nagano,Biathlon,Biathlon, Uschi disl,Germany,Women,7.5KM,Silver
+1998,Nagano,Curling,Curling, Elisabet gustafson,Sweden,Women,Curling,Bronze
+1998,Nagano,Curling,Curling, Margaretha lindahl,Sweden,Women,Curling,Bronze
+1998,Nagano,Curling,Curling, Louise marmont,Sweden,Women,Curling,Bronze
+1998,Nagano,Curling,Curling, Katarina nyberg,Sweden,Women,Curling,Bronze
+1998,Nagano,Curling,Curling, Elisabeth persson,Sweden,Women,Curling,Bronze
+1998,Nagano,Curling,Curling, Jan betker,Canada,Women,Curling,Gold
+1998,Nagano,Curling,Curling, Atina ford,Canada,Women,Curling,Gold
+1998,Nagano,Curling,Curling, Marcia gudereit,Canada,Women,Curling,Gold
+1998,Nagano,Curling,Curling, Joan mccusker,Canada,Women,Curling,Gold
+1998,Nagano,Curling,Curling, Sandra schmirler,Canada,Women,Curling,Gold
+1998,Nagano,Curling,Curling, Jane bidstrup,Denmark,Women,Curling,Silver
+1998,Nagano,Curling,Curling, Dorthe holm,Denmark,Women,Curling,Silver
+1998,Nagano,Curling,Curling, Helena Blach lavrsen,Denmark,Women,Curling,Silver
+1998,Nagano,Curling,Curling, Margit poertner,Denmark,Women,Curling,Silver
+1998,Nagano,Curling,Curling, Trine qvist,Denmark,Women,Curling,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Sari fisk,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Kirsi hanninen,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Satu huotari,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Marianne ihalainen,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Johanna ikonen,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Sari krooks,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Emma laaksonen,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Sanna lankosaari,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Katja lehtd,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Marika lehtimaki,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Riikka nieminen,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Marja-Helena palvila,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Tuula puputti,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Karoliina rantamaki,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Tiia reima,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Katja riipi,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Paivi salo,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Maria selin,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Liisa-Maria sneck,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Petra vaarakallio,Finland,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,Ice Hockey, Chris bailey,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Laurie baker,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Alana blahoski,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Lisa brown-miller,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Karyn bye,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Colleen coyne,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Sara decosta,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Tricia dunn-luoma,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Cammi granato,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Katie king,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Shelley looney,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Sue merz,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Allison mleczko,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Tara mounsey,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Vicki movsessian,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Jenny potter,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Angela ruggiero,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Sarah tueting,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Gretchen ulion,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Sandra whyte,USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,Ice Hockey, Jennifer botterill,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Therese brisson,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Cassie campbell,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Judy diduck,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Nancy drolet,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Lori dupuis,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Danielle goyette,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Geraldine heaney,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Jayna hefford,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Becky kellar,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Katheryn mccormack,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Karen nystrom,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Lesley reddon,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Manon rheaume,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Laura schuler,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Fiona smith,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, France st-louis,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Vicky sunohara,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Hayley wickenheiser,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,Ice Hockey, Stacy wilson,Canada,Women,Ice Hockey,Silver
+1998,Nagano,Luge,Luge, Angelika neuner,Austria,Women,Singles,Bronze
+1998,Nagano,Luge,Luge, Silke kraushaar,Germany,Women,Singles,Gold
+1998,Nagano,Luge,Luge, Barbara niedernhuber,Germany,Women,Singles,Silver
+1998,Nagano,Skating,Figure skating, Marina anissina,France,Women,Ice Dancing,Bronze
+1998,Nagano,Skating,Figure skating, Pasha grischuk,Russia,Women,Ice Dancing,Gold
+1998,Nagano,Skating,Figure skating, Anjelika krylova,Russia,Women,Ice Dancing,Silver
+1998,Nagano,Skating,Figure skating, Lu chen,China,Women,Individual,Bronze
+1998,Nagano,Skating,Figure skating, Tara lipinski,USA,Women,Individual,Gold
+1998,Nagano,Skating,Figure skating, Michelle kwan,USA,Women,Individual,Silver
+1998,Nagano,Skating,Figure skating, Mandy wotzel,Germany,Women,Pairs,Bronze
+1998,Nagano,Skating,Figure skating, Oksana kazakova,Russia,Women,Pairs,Gold
+1998,Nagano,Skating,Figure skating, Elena berezhnaya,Russia,Women,Pairs,Silver
+1998,Nagano,Skating,Short Track Speed Skating, Hye-Kyung won,South Korea,Women,1000M,Bronze
+1998,Nagano,Skating,Short Track Speed Skating, Lee-Kyung chun,South Korea,Women,1000M,Gold
+1998,Nagano,Skating,Short Track Speed Skating, Yang yang (s),China,Women,1000M,Silver
+1998,Nagano,Skating,Short Track Speed Skating, Christine boudrias,Canada,Women,3000M Relay,Bronze
+1998,Nagano,Skating,Short Track Speed Skating, Isabelle charest,Canada,Women,3000M Relay,Bronze
+1998,Nagano,Skating,Short Track Speed Skating, Annie perreault,Canada,Women,3000M Relay,Bronze
+1998,Nagano,Skating,Short Track Speed Skating, Tania vicent,Canada,Women,3000M Relay,Bronze
+1998,Nagano,Skating,Short Track Speed Skating, Sang-Mi an,South Korea,Women,3000M Relay,Gold
+1998,Nagano,Skating,Short Track Speed Skating, Lee-Kyung chun,South Korea,Women,3000M Relay,Gold
+1998,Nagano,Skating,Short Track Speed Skating, Yun-Mi kim,South Korea,Women,3000M Relay,Gold
+1998,Nagano,Skating,Short Track Speed Skating, Hye-Kyung won,South Korea,Women,3000M Relay,Gold
+1998,Nagano,Skating,Short Track Speed Skating, Dandan sun,China,Women,3000M Relay,Silver
+1998,Nagano,Skating,Short Track Speed Skating, Chunlu wang,China,Women,3000M Relay,Silver
+1998,Nagano,Skating,Short Track Speed Skating, Yang yang (a),China,Women,3000M Relay,Silver
+1998,Nagano,Skating,Short Track Speed Skating, Yang yang (s),China,Women,3000M Relay,Silver
+1998,Nagano,Skating,Short Track Speed Skating, Lee-Kyung chun,South Korea,Women,500M,Bronze
+1998,Nagano,Skating,Short Track Speed Skating, Annie perreault,Canada,Women,500M,Gold
+1998,Nagano,Skating,Short Track Speed Skating, Yang yang (s),China,Women,500M,Silver
+1998,Nagano,Skating,Speed skating, Catriona lemay doan,Canada,Women,1000M,Bronze
+1998,Nagano,Skating,Speed skating, Marianne timmer,Netherlands,Women,1000M,Gold
+1998,Nagano,Skating,Speed skating, Christine witty,USA,Women,1000M,Silver
+1998,Nagano,Skating,Speed skating, Christine witty,USA,Women,1500M,Bronze
+1998,Nagano,Skating,Speed skating, Marianne timmer,Netherlands,Women,1500M,Gold
+1998,Nagano,Skating,Speed skating, Gunda niemann-stirnemann,Germany,Women,1500M,Silver
+1998,Nagano,Skating,Speed skating, Anna friesinger-postma,Germany,Women,3000M,Bronze
+1998,Nagano,Skating,Speed skating, Gunda niemann-stirnemann,Germany,Women,3000M,Gold
+1998,Nagano,Skating,Speed skating, Claudia pechstein,Germany,Women,3000M,Silver
+1998,Nagano,Skating,Speed skating, Lyudmila prokasheva,Kazakhstan,Women,5000M,Bronze
+1998,Nagano,Skating,Speed skating, Claudia pechstein,Germany,Women,5000M,Gold
+1998,Nagano,Skating,Speed skating, Gunda niemann-stirnemann,Germany,Women,5000M,Silver
+1998,Nagano,Skating,Speed skating, Tomomi okazaki,Japan,Women,500M,Bronze
+1998,Nagano,Skating,Speed skating, Catriona lemay doan,Canada,Women,500M,Gold
+1998,Nagano,Skating,Speed skating, Susan auch,Canada,Women,500M,Silver
+1998,Nagano,Skiing,Alpine Skiing, Hilde gerg,Germany,Women,Alpine Combined,Bronze
+1998,Nagano,Skiing,Alpine Skiing, Katja seizinger,Germany,Women,Alpine Combined,Gold
+1998,Nagano,Skiing,Alpine Skiing, Martina ertl,Germany,Women,Alpine Combined,Silver
+1998,Nagano,Skiing,Alpine Skiing, Florence masnada,France,Women,Downhill,Bronze
+1998,Nagano,Skiing,Alpine Skiing, Katja seizinger,Germany,Women,Downhill,Gold
+1998,Nagano,Skiing,Alpine Skiing, Pernilla wiberg,Sweden,Women,Downhill,Silver
+1998,Nagano,Skiing,Alpine Skiing, Katja seizinger,Germany,Women,Giant Slalom,Bronze
+1998,Nagano,Skiing,Alpine Skiing, Deborah compagnoni,Italy,Women,Giant Slalom,Gold
+1998,Nagano,Skiing,Alpine Skiing, Alexandra meissnitzer,Austria,Women,Giant Slalom,Silver
+1998,Nagano,Skiing,Alpine Skiing, Zali steggall,Australia,Women,Slalom,Bronze
+1998,Nagano,Skiing,Alpine Skiing, Hilde gerg,Germany,Women,Slalom,Gold
+1998,Nagano,Skiing,Alpine Skiing, Deborah compagnoni,Italy,Women,Slalom,Silver
+1998,Nagano,Skiing,Alpine Skiing, Alexandra meissnitzer,Austria,Women,Super-G,Bronze
+1998,Nagano,Skiing,Alpine Skiing, Picabo street,USA,Women,Super-G,Gold
+1998,Nagano,Skiing,Alpine Skiing, Michaela dorfmeister,Austria,Women,Super-G,Silver
+1998,Nagano,Skiing,Cross Country Skiing, Anita moen,Norway,Women,15KM Mass Start,Bronze
+1998,Nagano,Skiing,Cross Country Skiing, Olga danilova,Russia,Women,15KM Mass Start,Gold
+1998,Nagano,Skiing,Cross Country Skiing, Larissa lazutina,Russia,Women,15KM Mass Start,Silver
+1998,Nagano,Skiing,Cross Country Skiing, Larissa lazutina,Russia,Women,30KM,Bronze
+1998,Nagano,Skiing,Cross Country Skiing, Julija tchepalova,Russia,Women,30KM,Gold
+1998,Nagano,Skiing,Cross Country Skiing, Stefania belmondo,Italy,Women,30KM,Silver
+1998,Nagano,Skiing,Cross Country Skiing, Stefania belmondo,Italy,Women,4X5KM Relay,Bronze
+1998,Nagano,Skiing,Cross Country Skiing, Manuela di centa,Italy,Women,4X5KM Relay,Bronze
+1998,Nagano,Skiing,Cross Country Skiing, Karin moroder,Italy,Women,4X5KM Relay,Bronze
+1998,Nagano,Skiing,Cross Country Skiing, Gabriella paruzzi,Italy,Women,4X5KM Relay,Bronze
+1998,Nagano,Skiing,Cross Country Skiing, Olga danilova,Russia,Women,4X5KM Relay,Gold
+1998,Nagano,Skiing,Cross Country Skiing, Nina gavriljuk,Russia,Women,4X5KM Relay,Gold
+1998,Nagano,Skiing,Cross Country Skiing, Larissa lazutina,Russia,Women,4X5KM Relay,Gold
+1998,Nagano,Skiing,Cross Country Skiing, Elena vaelbe,Russia,Women,4X5KM Relay,Gold
+1998,Nagano,Skiing,Cross Country Skiing, Marit mikkelsplass,Norway,Women,4X5KM Relay,Silver
+1998,Nagano,Skiing,Cross Country Skiing, Anita moen,Norway,Women,4X5KM Relay,Silver
+1998,Nagano,Skiing,Cross Country Skiing, Elin nilsen,Norway,Women,4X5KM Relay,Silver
+1998,Nagano,Skiing,Cross Country Skiing, Bente skari,Norway,Women,4X5KM Relay,Silver
+1998,Nagano,Skiing,Cross Country Skiing, Bente skari,Norway,Women,5KM,Bronze
+1998,Nagano,Skiing,Cross Country Skiing, Larissa lazutina,Russia,Women,5KM,Gold
+1998,Nagano,Skiing,Cross Country Skiing, Katerina neumannova,Czech Republic,Women,5KM,Silver
+1998,Nagano,Skiing,Cross Country Skiing, Katerina neumannova,Czech Republic,Women,Combined 5KM + 10KM Pursuit,Bronze
+1998,Nagano,Skiing,Cross Country Skiing, Larissa lazutina,Russia,Women,Combined 5KM + 10KM Pursuit,Gold
+1998,Nagano,Skiing,Cross Country Skiing, Olga danilova,Russia,Women,Combined 5KM + 10KM Pursuit,Silver
+1998,Nagano,Skiing,Freestyle Skiing, Colette brand,Switzerland,Women,Aerials,Bronze
+1998,Nagano,Skiing,Freestyle Skiing, Nikki stone,USA,Women,Aerials,Gold
+1998,Nagano,Skiing,Freestyle Skiing, Nannan xu,China,Women,Aerials,Silver
+1998,Nagano,Skiing,Freestyle Skiing, Kari traa,Norway,Women,Moguls,Bronze
+1998,Nagano,Skiing,Freestyle Skiing, Tae satoya,Japan,Women,Moguls,Gold
+1998,Nagano,Skiing,Freestyle Skiing, Tatjana mittermayer,Germany,Women,Moguls,Silver
+1998,Nagano,Skiing,Snowboard, Brigitte koeck,Austria,Women,Giant-Slalom,Bronze
+1998,Nagano,Skiing,Snowboard, Karine ruby,France,Women,Giant-Slalom,Gold
+1998,Nagano,Skiing,Snowboard, Heidi Maria renoth,Germany,Women,Giant-Slalom,Silver
+1998,Nagano,Skiing,Snowboard, Shannon dunn-downing,USA,Women,Half-Pipe,Bronze
+1998,Nagano,Skiing,Snowboard, Nicola thost,Germany,Women,Half-Pipe,Gold
+1998,Nagano,Skiing,Snowboard, Stine Brun kjeldaas,Norway,Women,Half-Pipe,Silver
+2002,Salt Lake City,Biathlon,Biathlon, Irina nikoultchina,Bulgaria,Women,10KM Pursuit,Bronze
+2002,Salt Lake City,Biathlon,Biathlon, Olga pyleva,Russia,Women,10KM Pursuit,Gold
+2002,Salt Lake City,Biathlon,Biathlon, Kati wilhelm,Germany,Women,10KM Pursuit,Silver
+2002,Salt Lake City,Biathlon,Biathlon, Magdalena forsberg,Sweden,Women,15KM,Bronze
+2002,Salt Lake City,Biathlon,Biathlon, Andrea henkel,Germany,Women,15KM,Gold
+2002,Salt Lake City,Biathlon,Biathlon, Liv Grete poiree,Norway,Women,15KM,Silver
+2002,Salt Lake City,Biathlon,Biathlon, Albina akhatova,Russia,Women,4X7.5KM Relay,Bronze
+2002,Salt Lake City,Biathlon,Biathlon, Svetlana ishmouratova,Russia,Women,4X7.5KM Relay,Bronze
+2002,Salt Lake City,Biathlon,Biathlon, Galina koukleva,Russia,Women,4X7.5KM Relay,Bronze
+2002,Salt Lake City,Biathlon,Biathlon, Olga pyleva,Russia,Women,4X7.5KM Relay,Bronze
+2002,Salt Lake City,Biathlon,Biathlon, Katrin apel,Germany,Women,4X7.5KM Relay,Gold
+2002,Salt Lake City,Biathlon,Biathlon, Uschi disl,Germany,Women,4X7.5KM Relay,Gold
+2002,Salt Lake City,Biathlon,Biathlon, Andrea henkel,Germany,Women,4X7.5KM Relay,Gold
+2002,Salt Lake City,Biathlon,Biathlon, Kati wilhelm,Germany,Women,4X7.5KM Relay,Gold
+2002,Salt Lake City,Biathlon,Biathlon, Gunn Margit andreassen,Norway,Women,4X7.5KM Relay,Silver
+2002,Salt Lake City,Biathlon,Biathlon, Liv Grete poiree,Norway,Women,4X7.5KM Relay,Silver
+2002,Salt Lake City,Biathlon,Biathlon, Ann Elen skjelbreid,Norway,Women,4X7.5KM Relay,Silver
+2002,Salt Lake City,Biathlon,Biathlon, Linda tjoerhom,Norway,Women,4X7.5KM Relay,Silver
+2002,Salt Lake City,Biathlon,Biathlon, Magdalena forsberg,Sweden,Women,7.5KM,Bronze
+2002,Salt Lake City,Biathlon,Biathlon, Kati wilhelm,Germany,Women,7.5KM,Gold
+2002,Salt Lake City,Biathlon,Biathlon, Uschi disl,Germany,Women,7.5KM,Silver
+2002,Salt Lake City,Bobsleigh,Bobsleigh, Susi-Lisa erdmann,Germany,Women,Two-Man,Bronze
+2002,Salt Lake City,Bobsleigh,Bobsleigh, Nicole herschmann,Germany,Women,Two-Man,Bronze
+2002,Salt Lake City,Bobsleigh,Bobsleigh, Jill bakken,USA,Women,Two-Man,Gold
+2002,Salt Lake City,Bobsleigh,Bobsleigh, Vonetta flowers,USA,Women,Two-Man,Gold
+2002,Salt Lake City,Bobsleigh,Bobsleigh, Ulrike holzner,Germany,Women,Two-Man,Silver
+2002,Salt Lake City,Bobsleigh,Bobsleigh, Sandra kiriasis,Germany,Women,Two-Man,Silver
+2002,Salt Lake City,Bobsleigh,Skeleton, Alex coomber,UK,Women,Individual,Bronze
+2002,Salt Lake City,Bobsleigh,Skeleton, Tristan gale,USA,Women,Individual,Gold
+2002,Salt Lake City,Bobsleigh,Skeleton, Lea Ann parsley,USA,Women,Individual,Silver
+2002,Salt Lake City,Curling,Curling, Kelley law,Canada,Women,Curling,Bronze
+2002,Salt Lake City,Curling,Curling, Diane nelson,Canada,Women,Curling,Bronze
+2002,Salt Lake City,Curling,Curling, Cheryl noble,Canada,Women,Curling,Bronze
+2002,Salt Lake City,Curling,Curling, Julie skinner,Canada,Women,Curling,Bronze
+2002,Salt Lake City,Curling,Curling, Georgina wheatcroft,Canada,Women,Curling,Bronze
+2002,Salt Lake City,Curling,Curling, Debbie knox,UK,Women,Curling,Gold
+2002,Salt Lake City,Curling,Curling, Fiona macdonald,UK,Women,Curling,Gold
+2002,Salt Lake City,Curling,Curling, Rhona martin,UK,Women,Curling,Gold
+2002,Salt Lake City,Curling,Curling, Margaret morton,UK,Women,Curling,Gold
+2002,Salt Lake City,Curling,Curling, Janice rankin,UK,Women,Curling,Gold
+2002,Salt Lake City,Curling,Curling, Laurence bidaud,Switzerland,Women,Curling,Silver
+2002,Salt Lake City,Curling,Curling, Luzia ebnoether,Switzerland,Women,Curling,Silver
+2002,Salt Lake City,Curling,Curling, Tanya frei,Switzerland,Women,Curling,Silver
+2002,Salt Lake City,Curling,Curling, Mirjam ott,Switzerland,Women,Curling,Silver
+2002,Salt Lake City,Curling,Curling, Nadia roethlisberger,Switzerland,Women,Curling,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Annica ahlen,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Lotta almblad,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Anna andersson,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Gunilla andersson,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Emelie berggren,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Kristina bergstrand,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Ann-Louise edstrand,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Joa elfsberg,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Erika holst,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Nanna jansson,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Maria larsson,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Ylva lindberg,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Ulrica lindstrom,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Kim martin,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Josefin pettersson,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Maria rooth,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Danijela rundqvist,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Evelina samuelsson,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Therese sjolander,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Anna vikman,Sweden,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Dana antal,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Kelly bechard,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Jennifer botterill,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Therese brisson,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Cassie campbell,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Isabelle chartrand,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Lori dupuis,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Danielle goyette,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Geraldine heaney,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Jayna hefford,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Becky kellar,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Caroline ouellette,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Cherie piper,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Cheryl pounder,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Tammy Lee shewchuk,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Sami Jo small,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Colleen sostorics,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Kim st-pierre,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Vicky sunohara,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Hayley wickenheiser,Canada,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Chris bailey,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Laurie baker,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Karyn bye,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Julie chu,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Natalie darwitz,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Sara decosta,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Tricia dunn-luoma,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Cammi granato,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Courtney kennedy,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Andrea kilbourne,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Katie king,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Shelley looney,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Sue merz,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Allison mleczko,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Tara mounsey,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Jenny potter,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Angela ruggiero,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Sarah tueting,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Lyndsay wall,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,Ice Hockey, Krissy wendell,USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Luge,Luge, Silke kraushaar,Germany,Women,Singles,Bronze
+2002,Salt Lake City,Luge,Luge, Sylke otto,Germany,Women,Singles,Gold
+2002,Salt Lake City,Luge,Luge, Barbara niedernhuber,Germany,Women,Singles,Silver
+2002,Salt Lake City,Skating,Figure skating, Barbara fusar poli,Italy,Women,Ice Dancing,Bronze
+2002,Salt Lake City,Skating,Figure skating, Marina anissina,France,Women,Ice Dancing,Gold
+2002,Salt Lake City,Skating,Figure skating, Irina lobacheva,Russia,Women,Ice Dancing,Silver
+2002,Salt Lake City,Skating,Figure skating, Michelle kwan,USA,Women,Individual,Bronze
+2002,Salt Lake City,Skating,Figure skating, Sarah hughes,USA,Women,Individual,Gold
+2002,Salt Lake City,Skating,Figure skating, Irina slutskaya,Russia,Women,Individual,Silver
+2002,Salt Lake City,Skating,Figure skating, Xue shen,China,Women,Pairs,Bronze
+2002,Salt Lake City,Skating,Figure skating, Jamie sale,Canada,Women,Pairs,Gold
+2002,Salt Lake City,Skating,Figure skating, Elena berezhnaya,Russia,Women,Pairs,Gold
+2002,Salt Lake City,Skating,Short Track Speed Skating, Yang yang (s),China,Women,1000M,Bronze
+2002,Salt Lake City,Skating,Short Track Speed Skating, Yang yang (a),China,Women,1000M,Gold
+2002,Salt Lake City,Skating,Short Track Speed Skating, Gi-Hyun ko,South Korea,Women,1000M,Silver
+2002,Salt Lake City,Skating,Short Track Speed Skating, Evgenia radanova,Bulgaria,Women,1500M,Bronze
+2002,Salt Lake City,Skating,Short Track Speed Skating, Gi-Hyun ko,South Korea,Women,1500M,Gold
+2002,Salt Lake City,Skating,Short Track Speed Skating, Eun-Kyung choi,South Korea,Women,1500M,Silver
+2002,Salt Lake City,Skating,Short Track Speed Skating, Isabelle charest,Canada,Women,3000M Relay,Bronze
+2002,Salt Lake City,Skating,Short Track Speed Skating, Marie-Eve drolet,Canada,Women,3000M Relay,Bronze
+2002,Salt Lake City,Skating,Short Track Speed Skating, Amelie goulet-nadon,Canada,Women,3000M Relay,Bronze
+2002,Salt Lake City,Skating,Short Track Speed Skating, Alanna kraus,Canada,Women,3000M Relay,Bronze
+2002,Salt Lake City,Skating,Short Track Speed Skating, Tania vicent,Canada,Women,3000M Relay,Bronze
+2002,Salt Lake City,Skating,Short Track Speed Skating, Eun-Kyung choi,South Korea,Women,3000M Relay,Gold
+2002,Salt Lake City,Skating,Short Track Speed Skating, Min Kyung choi,South Korea,Women,3000M Relay,Gold
+2002,Salt Lake City,Skating,Short Track Speed Skating, Min-Jin joo,South Korea,Women,3000M Relay,Gold
+2002,Salt Lake City,Skating,Short Track Speed Skating, Hye-Won park,South Korea,Women,3000M Relay,Gold
+2002,Salt Lake City,Skating,Short Track Speed Skating, Dandan sun,China,Women,3000M Relay,Silver
+2002,Salt Lake City,Skating,Short Track Speed Skating, Chunlu wang,China,Women,3000M Relay,Silver
+2002,Salt Lake City,Skating,Short Track Speed Skating, Yang yang (a),China,Women,3000M Relay,Silver
+2002,Salt Lake City,Skating,Short Track Speed Skating, Yang yang (s),China,Women,3000M Relay,Silver
+2002,Salt Lake City,Skating,Short Track Speed Skating, Chunlu wang,China,Women,500M,Bronze
+2002,Salt Lake City,Skating,Short Track Speed Skating, Yang yang (a),China,Women,500M,Gold
+2002,Salt Lake City,Skating,Short Track Speed Skating, Evgenia radanova,Bulgaria,Women,500M,Silver
+2002,Salt Lake City,Skating,Speed skating, Jennifer rodriguez,USA,Women,1000M,Bronze
+2002,Salt Lake City,Skating,Speed skating, Chris witty,USA,Women,1000M,Gold
+2002,Salt Lake City,Skating,Speed skating, Sabine voelker,Germany,Women,1000M,Silver
+2002,Salt Lake City,Skating,Speed skating, Jennifer rodriguez,USA,Women,1500M,Bronze
+2002,Salt Lake City,Skating,Speed skating, Anna friesinger-postma,Germany,Women,1500M,Gold
+2002,Salt Lake City,Skating,Speed skating, Sabine voelker,Germany,Women,1500M,Silver
+2002,Salt Lake City,Skating,Speed skating, Cindy klassen,Canada,Women,3000M,Bronze
+2002,Salt Lake City,Skating,Speed skating, Claudia pechstein,Germany,Women,3000M,Gold
+2002,Salt Lake City,Skating,Speed skating, Renate groenewold,Netherlands,Women,3000M,Silver
+2002,Salt Lake City,Skating,Speed skating, Clara hughes,Canada,Women,5000M,Bronze
+2002,Salt Lake City,Skating,Speed skating, Claudia pechstein,Germany,Women,5000M,Gold
+2002,Salt Lake City,Skating,Speed skating, Gretha smit,Netherlands,Women,5000M,Silver
+2002,Salt Lake City,Skating,Speed skating, Sabine voelker,Germany,Women,500M,Bronze
+2002,Salt Lake City,Skating,Speed skating, Catriona lemay doan,Canada,Women,500M,Gold
+2002,Salt Lake City,Skating,Speed skating, Monique garbrecht-enfeldt,Germany,Women,500M,Silver
+2002,Salt Lake City,Skiing,Alpine Skiing, Martina ertl,Germany,Women,Alpine Combined,Bronze
+2002,Salt Lake City,Skiing,Alpine Skiing, Janica kostelic,Croatia,Women,Alpine Combined,Gold
+2002,Salt Lake City,Skiing,Alpine Skiing, Renate goetschl,Austria,Women,Alpine Combined,Silver
+2002,Salt Lake City,Skiing,Alpine Skiing, Renate goetschl,Austria,Women,Downhill,Bronze
+2002,Salt Lake City,Skiing,Alpine Skiing, Carole montillet-carles,France,Women,Downhill,Gold
+2002,Salt Lake City,Skiing,Alpine Skiing, Isolde kostner,Italy,Women,Downhill,Silver
+2002,Salt Lake City,Skiing,Alpine Skiing, Sonja nef,Switzerland,Women,Giant Slalom,Bronze
+2002,Salt Lake City,Skiing,Alpine Skiing, Janica kostelic,Croatia,Women,Giant Slalom,Gold
+2002,Salt Lake City,Skiing,Alpine Skiing, Anja paerson,Sweden,Women,Giant Slalom,Silver
+2002,Salt Lake City,Skiing,Alpine Skiing, Anja paerson,Sweden,Women,Slalom,Bronze
+2002,Salt Lake City,Skiing,Alpine Skiing, Janica kostelic,Croatia,Women,Slalom,Gold
+2002,Salt Lake City,Skiing,Alpine Skiing, Laure pequegnot,France,Women,Slalom,Silver
+2002,Salt Lake City,Skiing,Alpine Skiing, Karen putzer,Italy,Women,Super-G,Bronze
+2002,Salt Lake City,Skiing,Alpine Skiing, Daniela ceccarelli,Italy,Women,Super-G,Gold
+2002,Salt Lake City,Skiing,Alpine Skiing, Janica kostelic,Croatia,Women,Super-G,Silver
+2002,Salt Lake City,Skiing,Cross Country Skiing, Stefania belmondo,Italy,Women,10KM,Bronze
+2002,Salt Lake City,Skiing,Cross Country Skiing, Bente skari,Norway,Women,10KM,Gold
+2002,Salt Lake City,Skiing,Cross Country Skiing, Julija tchepalova,Russia,Women,10KM,Silver
+2002,Salt Lake City,Skiing,Cross Country Skiing, Julija tchepalova,Russia,Women,15KM Mass Start,Bronze
+2002,Salt Lake City,Skiing,Cross Country Skiing, Stefania belmondo,Italy,Women,15KM Mass Start,Gold
+2002,Salt Lake City,Skiing,Cross Country Skiing, Katerina neumannova,Czech Republic,Women,15KM Mass Start,Silver
+2002,Salt Lake City,Skiing,Cross Country Skiing, Bente skari,Norway,Women,30KM,Bronze
+2002,Salt Lake City,Skiing,Cross Country Skiing, Gabriella paruzzi,Italy,Women,30KM,Gold
+2002,Salt Lake City,Skiing,Cross Country Skiing, Stefania belmondo,Italy,Women,30KM,Silver
+2002,Salt Lake City,Skiing,Cross Country Skiing, Brigitte albrecht loretan,Switzerland,Women,4X5KM Relay,Bronze
+2002,Salt Lake City,Skiing,Cross Country Skiing, Andrea huber,Switzerland,Women,4X5KM Relay,Bronze
+2002,Salt Lake City,Skiing,Cross Country Skiing, Natascia leonardi cortesi,Switzerland,Women,4X5KM Relay,Bronze
+2002,Salt Lake City,Skiing,Cross Country Skiing, Laurence rochat,Switzerland,Women,4X5KM Relay,Bronze
+2002,Salt Lake City,Skiing,Cross Country Skiing, Viola bauer,Germany,Women,4X5KM Relay,Gold
+2002,Salt Lake City,Skiing,Cross Country Skiing, Manuela henkel,Germany,Women,4X5KM Relay,Gold
+2002,Salt Lake City,Skiing,Cross Country Skiing, Claudia kuenzel,Germany,Women,4X5KM Relay,Gold
+2002,Salt Lake City,Skiing,Cross Country Skiing, Evi sachenbacher,Germany,Women,4X5KM Relay,Gold
+2002,Salt Lake City,Skiing,Cross Country Skiing, Marit bjoergen,Norway,Women,4X5KM Relay,Silver
+2002,Salt Lake City,Skiing,Cross Country Skiing, Anita moen,Norway,Women,4X5KM Relay,Silver
+2002,Salt Lake City,Skiing,Cross Country Skiing, Hilde G pedersen,Norway,Women,4X5KM Relay,Silver
+2002,Salt Lake City,Skiing,Cross Country Skiing, Bente skari,Norway,Women,4X5KM Relay,Silver
+2002,Salt Lake City,Skiing,Cross Country Skiing, Viola bauer,Germany,Women,5Km Pursuit,Bronze
+2002,Salt Lake City,Skiing,Cross Country Skiing, Beckie scott,Canada,Women,5Km Pursuit,Gold
+2002,Salt Lake City,Skiing,Cross Country Skiing, Katerina neumannova,Czech Republic,Women,5Km Pursuit,Silver
+2002,Salt Lake City,Skiing,Cross Country Skiing, Anita moen,Norway,Women,Sprint 1.5KM,Bronze
+2002,Salt Lake City,Skiing,Cross Country Skiing, Julija tchepalova,Russia,Women,Sprint 1.5KM,Gold
+2002,Salt Lake City,Skiing,Cross Country Skiing, Evi sachenbacher,Germany,Women,Sprint 1.5KM,Silver
+2002,Salt Lake City,Skiing,Freestyle Skiing, Deidra dionne,Canada,Women,Aerials,Bronze
+2002,Salt Lake City,Skiing,Freestyle Skiing, Alisa camplin,Australia,Women,Aerials,Gold
+2002,Salt Lake City,Skiing,Freestyle Skiing, Veronica brenner,Canada,Women,Aerials,Silver
+2002,Salt Lake City,Skiing,Freestyle Skiing, Tae satoya,Japan,Women,Moguls,Bronze
+2002,Salt Lake City,Skiing,Freestyle Skiing, Kari traa,Norway,Women,Moguls,Gold
+2002,Salt Lake City,Skiing,Freestyle Skiing, Shannon bahrke,USA,Women,Moguls,Silver
+2002,Salt Lake City,Skiing,Snowboard, Lidia trettel,Italy,Women,Giant Parallel Slalom,Bronze
+2002,Salt Lake City,Skiing,Snowboard, Isabelle blanc,France,Women,Giant Parallel Slalom,Gold
+2002,Salt Lake City,Skiing,Snowboard, Karine ruby,France,Women,Giant Parallel Slalom,Silver
+2002,Salt Lake City,Skiing,Snowboard, Fabienne reuteler,Switzerland,Women,Half-Pipe,Bronze
+2002,Salt Lake City,Skiing,Snowboard, Kelly clark,USA,Women,Half-Pipe,Gold
+2002,Salt Lake City,Skiing,Snowboard, Doriane vidal,France,Women,Half-Pipe,Silver
+2006,Turin,Biathlon,Biathlon, Albina akhatova,Russia,Women,10KM Pursuit,Bronze
+2006,Turin,Biathlon,Biathlon, Kati wilhelm,Germany,Women,10KM Pursuit,Gold
+2006,Turin,Biathlon,Biathlon, Martina glagow,Germany,Women,10KM Pursuit,Silver
+2006,Turin,Biathlon,Biathlon, Uschi disl,Germany,Women,12.5KM Mass Start,Bronze
+2006,Turin,Biathlon,Biathlon, Anna Carin olofsson,Sweden,Women,12.5KM Mass Start,Gold
+2006,Turin,Biathlon,Biathlon, Kati wilhelm,Germany,Women,12.5KM Mass Start,Silver
+2006,Turin,Biathlon,Biathlon, Albina akhatova,Russia,Women,15KM,Bronze
+2006,Turin,Biathlon,Biathlon, Svetlana ishmouratova,Russia,Women,15KM,Gold
+2006,Turin,Biathlon,Biathlon, Martina glagow,Germany,Women,15KM,Silver
+2006,Turin,Biathlon,Biathlon, Sandrine bailly,France,Women,4X6KM Relay,Bronze
+2006,Turin,Biathlon,Biathlon, Florence baverel-robert,France,Women,4X6KM Relay,Bronze
+2006,Turin,Biathlon,Biathlon, Sylvie becaert,France,Women,4X6KM Relay,Bronze
+2006,Turin,Biathlon,Biathlon, Delphyne peretto,France,Women,4X6KM Relay,Bronze
+2006,Turin,Biathlon,Biathlon, Albina akhatova,Russia,Women,4X6KM Relay,Gold
+2006,Turin,Biathlon,Biathlon, Anna bogaliy,Russia,Women,4X6KM Relay,Gold
+2006,Turin,Biathlon,Biathlon, Svetlana ishmouratova,Russia,Women,4X6KM Relay,Gold
+2006,Turin,Biathlon,Biathlon, Olga zaitseva,Russia,Women,4X6KM Relay,Gold
+2006,Turin,Biathlon,Biathlon, Katrin apel,Germany,Women,4X6KM Relay,Silver
+2006,Turin,Biathlon,Biathlon, Martina glagow,Germany,Women,4X6KM Relay,Silver
+2006,Turin,Biathlon,Biathlon, Andrea henkel,Germany,Women,4X6KM Relay,Silver
+2006,Turin,Biathlon,Biathlon, Kati wilhelm,Germany,Women,4X6KM Relay,Silver
+2006,Turin,Biathlon,Biathlon, Lilia efremova,Ukraine,Women,7.5KM,Bronze
+2006,Turin,Biathlon,Biathlon, Florence baverel-robert,France,Women,7.5KM,Gold
+2006,Turin,Biathlon,Biathlon, Anna Carin olofsson,Sweden,Women,7.5KM,Silver
+2006,Turin,Bobsleigh,Bobsleigh, Jennifer isacco,Italy,Women,Two-Man,Bronze
+2006,Turin,Bobsleigh,Bobsleigh, Gerda weissensteiner,Italy,Women,Two-Man,Bronze
+2006,Turin,Bobsleigh,Bobsleigh, Sandra kiriasis,Germany,Women,Two-Man,Gold
+2006,Turin,Bobsleigh,Bobsleigh, Anja schneiderheinze,Germany,Women,Two-Man,Gold
+2006,Turin,Bobsleigh,Bobsleigh, Valerie fleming,USA,Women,Two-Man,Silver
+2006,Turin,Bobsleigh,Bobsleigh, Shauna rohbock,USA,Women,Two-Man,Silver
+2006,Turin,Bobsleigh,Skeleton, Mellisa hollingsworth-richards,Canada,Women,Individual,Bronze
+2006,Turin,Bobsleigh,Skeleton, Maya pedersen,Switzerland,Women,Individual,Gold
+2006,Turin,Bobsleigh,Skeleton, Shelley rudman,UK,Women,Individual,Silver
+2006,Turin,Curling,Curling, Glenys bakker,Canada,Women,Curling,Bronze
+2006,Turin,Curling,Curling, Sandra jenkins,Canada,Women,Curling,Bronze
+2006,Turin,Curling,Curling, Christine keshen,Canada,Women,Curling,Bronze
+2006,Turin,Curling,Curling, Shannon kleibrink,Canada,Women,Curling,Bronze
+2006,Turin,Curling,Curling, Amy nixon,Canada,Women,Curling,Bronze
+2006,Turin,Curling,Curling, Ulrika bergman,Sweden,Women,Curling,Gold
+2006,Turin,Curling,Curling, Cathrine lindahl,Sweden,Women,Curling,Gold
+2006,Turin,Curling,Curling, Eva lund,Sweden,Women,Curling,Gold
+2006,Turin,Curling,Curling, Anette norberg,Sweden,Women,Curling,Gold
+2006,Turin,Curling,Curling, Anna svaerd,Sweden,Women,Curling,Gold
+2006,Turin,Curling,Curling, Binia beeli,Switzerland,Women,Curling,Silver
+2006,Turin,Curling,Curling, Manuela kormann,Switzerland,Women,Curling,Silver
+2006,Turin,Curling,Curling, Michele moser,Switzerland,Women,Curling,Silver
+2006,Turin,Curling,Curling, Mirjam ott,Switzerland,Women,Curling,Silver
+2006,Turin,Curling,Curling, Valeria spaelty,Switzerland,Women,Curling,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Caitlin cahow,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Julie chu,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Natalie darwitz,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Pam dreyer,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Tricia dunn-luoma,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Molly engstrom,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Chanda gunn,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Jamie hagerman,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Kim insalaco,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Kathleen kauth,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Courtney kennedy,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Katie king,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Kristin king,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Sarah parsons,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Jenny potter,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Helen resor,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Angela ruggiero,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Kelly stephens,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Lyndsay wall,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Krissy wendell,USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,Ice Hockey, Meghan agosta,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Gillian apps,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Jennifer botterill,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Cassie campbell,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Gillian ferrari,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Danielle goyette,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Jayna hefford,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Becky kellar,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Gina kingsbury,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Charline labonte,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Carla macleod,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Caroline ouellette,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Cherie piper,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Cheryl pounder,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Colleen sostorics,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Vicky sunohara,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Sarah vaillancourt,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Katie weatherston,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Hayley wickenheiser,Canada,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,Ice Hockey, Cecilia andersson,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Gunilla andersson,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Jenni asserholt,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Ann-Louise edstrand,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Joa elfsberg,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Emma eliasson,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Erika holst,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Nanna jansson,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Ylva lindberg,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Jenny lindqvist,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Kristina lundberg,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Kim martin,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Frida nevalainen,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Emilie o konor,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Maria rooth,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Danijela rundqvist,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Therese sjolander,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Katarina timglas,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Anna vikman,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,Ice Hockey, Pernilla winberg,Sweden,Women,Ice Hockey,Silver
+2006,Turin,Luge,Luge, Tatjana huefner,Germany,Women,Singles,Bronze
+2006,Turin,Luge,Luge, Sylke otto,Germany,Women,Singles,Gold
+2006,Turin,Luge,Luge, Silke kraushaar,Germany,Women,Singles,Silver
+2006,Turin,Skating,Figure skating, Elena grushina,Ukraine,Women,Ice Dancing,Bronze
+2006,Turin,Skating,Figure skating, Tatiana navka,Russia,Women,Ice Dancing,Gold
+2006,Turin,Skating,Figure skating, Tanith belbin,USA,Women,Ice Dancing,Silver
+2006,Turin,Skating,Figure skating, Irina slutskaya,Russia,Women,Individual,Bronze
+2006,Turin,Skating,Figure skating, Shizuka arakawa,Japan,Women,Individual,Gold
+2006,Turin,Skating,Figure skating, Sasha cohen,USA,Women,Individual,Silver
+2006,Turin,Skating,Figure skating, Xue shen,China,Women,Pairs,Bronze
+2006,Turin,Skating,Figure skating, Tatiana totmianina,Russia,Women,Pairs,Gold
+2006,Turin,Skating,Figure skating, Dan zhang,China,Women,Pairs,Silver
+2006,Turin,Skating,Short Track Speed Skating, Yang yang (a),China,Women,1000M,Bronze
+2006,Turin,Skating,Short Track Speed Skating, Sun-Yu jin,South Korea,Women,1000M,Gold
+2006,Turin,Skating,Short Track Speed Skating, Meng wang,China,Women,1000M,Silver
+2006,Turin,Skating,Short Track Speed Skating, Meng wang,China,Women,1500M,Bronze
+2006,Turin,Skating,Short Track Speed Skating, Sun-Yu jin,South Korea,Women,1500M,Gold
+2006,Turin,Skating,Short Track Speed Skating, Eun-Kyung choi,South Korea,Women,1500M,Silver
+2006,Turin,Skating,Short Track Speed Skating, Marta capurso,Italy,Women,3000M Relay,Bronze
+2006,Turin,Skating,Short Track Speed Skating, Arianna fontana,Italy,Women,3000M Relay,Bronze
+2006,Turin,Skating,Short Track Speed Skating, Katia zini,Italy,Women,3000M Relay,Bronze
+2006,Turin,Skating,Short Track Speed Skating, Mara zini,Italy,Women,3000M Relay,Bronze
+2006,Turin,Skating,Short Track Speed Skating, Chun-Sa byun,South Korea,Women,3000M Relay,Gold
+2006,Turin,Skating,Short Track Speed Skating, Eun-Kyung choi,South Korea,Women,3000M Relay,Gold
+2006,Turin,Skating,Short Track Speed Skating, Da-Hye jeon,South Korea,Women,3000M Relay,Gold
+2006,Turin,Skating,Short Track Speed Skating, Sun-Yu jin,South Korea,Women,3000M Relay,Gold
+2006,Turin,Skating,Short Track Speed Skating, Yun-Mi kang,South Korea,Women,3000M Relay,Gold
+2006,Turin,Skating,Short Track Speed Skating, Alanna kraus,Canada,Women,3000M Relay,Silver
+2006,Turin,Skating,Short Track Speed Skating, Anouk leblanc-boucher,Canada,Women,3000M Relay,Silver
+2006,Turin,Skating,Short Track Speed Skating, Amanda overland,Canada,Women,3000M Relay,Silver
+2006,Turin,Skating,Short Track Speed Skating, Kalyna roberge,Canada,Women,3000M Relay,Silver
+2006,Turin,Skating,Short Track Speed Skating, Tania vicent,Canada,Women,3000M Relay,Silver
+2006,Turin,Skating,Short Track Speed Skating, Anouk leblanc-boucher,Canada,Women,500M,Bronze
+2006,Turin,Skating,Short Track Speed Skating, Meng wang,China,Women,500M,Gold
+2006,Turin,Skating,Short Track Speed Skating, Evgenia radanova,Bulgaria,Women,500M,Silver
+2006,Turin,Skating,Speed skating, Anna friesinger-postma,Germany,Women,1000M,Bronze
+2006,Turin,Skating,Speed skating, Marianne timmer,Netherlands,Women,1000M,Gold
+2006,Turin,Skating,Speed skating, Cindy klassen,Canada,Women,1000M,Silver
+2006,Turin,Skating,Speed skating, Ireen wust,Netherlands,Women,1500M,Bronze
+2006,Turin,Skating,Speed skating, Cindy klassen,Canada,Women,1500M,Gold
+2006,Turin,Skating,Speed skating, Kristina groves,Canada,Women,1500M,Silver
+2006,Turin,Skating,Speed skating, Cindy klassen,Canada,Women,3000M,Bronze
+2006,Turin,Skating,Speed skating, Ireen wust,Netherlands,Women,3000M,Gold
+2006,Turin,Skating,Speed skating, Renate groenewold,Netherlands,Women,3000M,Silver
+2006,Turin,Skating,Speed skating, Cindy klassen,Canada,Women,5000M,Bronze
+2006,Turin,Skating,Speed skating, Clara hughes,Canada,Women,5000M,Gold
+2006,Turin,Skating,Speed skating, Claudia pechstein,Germany,Women,5000M,Silver
+2006,Turin,Skating,Speed skating, Hui ren,China,Women,500M,Bronze
+2006,Turin,Skating,Speed skating, Svetlana zhurova,Russia,Women,500M,Gold
+2006,Turin,Skating,Speed skating, Manli wang,China,Women,500M,Silver
+2006,Turin,Skating,Speed skating, Yekaterina abramova,Russia,Women,Team Pursuit,Bronze
+2006,Turin,Skating,Speed skating, Varvara barysheva,Russia,Women,Team Pursuit,Bronze
+2006,Turin,Skating,Speed skating, Galina likhachova,Russia,Women,Team Pursuit,Bronze
+2006,Turin,Skating,Speed skating, Yekaterina lobysheva,Russia,Women,Team Pursuit,Bronze
+2006,Turin,Skating,Speed skating, Svetlana vysokova,Russia,Women,Team Pursuit,Bronze
+2006,Turin,Skating,Speed skating, Daniela anschuetz thoms,Germany,Women,Team Pursuit,Gold
+2006,Turin,Skating,Speed skating, Anna friesinger-postma,Germany,Women,Team Pursuit,Gold
+2006,Turin,Skating,Speed skating, Lucille opitz,Germany,Women,Team Pursuit,Gold
+2006,Turin,Skating,Speed skating, Claudia pechstein,Germany,Women,Team Pursuit,Gold
+2006,Turin,Skating,Speed skating, Sabine voelker,Germany,Women,Team Pursuit,Gold
+2006,Turin,Skating,Speed skating, Kristina groves,Canada,Women,Team Pursuit,Silver
+2006,Turin,Skating,Speed skating, Clara hughes,Canada,Women,Team Pursuit,Silver
+2006,Turin,Skating,Speed skating, Cindy klassen,Canada,Women,Team Pursuit,Silver
+2006,Turin,Skating,Speed skating, Christine nesbitt,Canada,Women,Team Pursuit,Silver
+2006,Turin,Skating,Speed skating, Shannon rempel,Canada,Women,Team Pursuit,Silver
+2006,Turin,Skiing,Alpine Skiing, Anja paerson,Sweden,Women,Alpine Combined,Bronze
+2006,Turin,Skiing,Alpine Skiing, Janica kostelic,Croatia,Women,Alpine Combined,Gold
+2006,Turin,Skiing,Alpine Skiing, Marlies schild,Austria,Women,Alpine Combined,Silver
+2006,Turin,Skiing,Alpine Skiing, Anja paerson,Sweden,Women,Downhill,Bronze
+2006,Turin,Skiing,Alpine Skiing, Michaela dorfmeister,Austria,Women,Downhill,Gold
+2006,Turin,Skiing,Alpine Skiing, Martina schild,Switzerland,Women,Downhill,Silver
+2006,Turin,Skiing,Alpine Skiing, Anna ottosson,Sweden,Women,Giant Slalom,Bronze
+2006,Turin,Skiing,Alpine Skiing, Julia mancuso,USA,Women,Giant Slalom,Gold
+2006,Turin,Skiing,Alpine Skiing, Tanja poutiainen,Finland,Women,Giant Slalom,Silver
+2006,Turin,Skiing,Alpine Skiing, Marlies schild,Austria,Women,Slalom,Bronze
+2006,Turin,Skiing,Alpine Skiing, Anja paerson,Sweden,Women,Slalom,Gold
+2006,Turin,Skiing,Alpine Skiing, Nicole hosp,Austria,Women,Slalom,Silver
+2006,Turin,Skiing,Alpine Skiing, Alexandra meissnitzer,Austria,Women,Super-G,Bronze
+2006,Turin,Skiing,Alpine Skiing, Michaela dorfmeister,Austria,Women,Super-G,Gold
+2006,Turin,Skiing,Alpine Skiing, Janica kostelic,Croatia,Women,Super-G,Silver
+2006,Turin,Skiing,Cross Country Skiing, Hilde G pedersen,Norway,Women,10KM,Bronze
+2006,Turin,Skiing,Cross Country Skiing, Kristina smigun,Estonia,Women,10KM,Gold
+2006,Turin,Skiing,Cross Country Skiing, Marit bjorgen,Norway,Women,10KM,Silver
+2006,Turin,Skiing,Cross Country Skiing, Justyna kowalczyk,Poland,Women,30KM,Bronze
+2006,Turin,Skiing,Cross Country Skiing, Katerina neumannova,Czech Republic,Women,30KM,Gold
+2006,Turin,Skiing,Cross Country Skiing, Julija tchepalova,Russia,Women,30KM,Silver
+2006,Turin,Skiing,Cross Country Skiing, Antonella confortola,Italy,Women,4X5KM Relay,Bronze
+2006,Turin,Skiing,Cross Country Skiing, Arianna follis,Italy,Women,4X5KM Relay,Bronze
+2006,Turin,Skiing,Cross Country Skiing, Gabriella paruzzi,Italy,Women,4X5KM Relay,Bronze
+2006,Turin,Skiing,Cross Country Skiing, Sabina valbusa,Italy,Women,4X5KM Relay,Bronze
+2006,Turin,Skiing,Cross Country Skiing, Natalia baranova-masolkina,Russia,Women,4X5KM Relay,Gold
+2006,Turin,Skiing,Cross Country Skiing, Larisa kurkina,Russia,Women,4X5KM Relay,Gold
+2006,Turin,Skiing,Cross Country Skiing, Evgenia medvedeva-abruzova,Russia,Women,4X5KM Relay,Gold
+2006,Turin,Skiing,Cross Country Skiing, Julija tchepalova,Russia,Women,4X5KM Relay,Gold
+2006,Turin,Skiing,Cross Country Skiing, Viola bauer,Germany,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,Cross Country Skiing, Stefanie boehler,Germany,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,Cross Country Skiing, Claudia kuenzel,Germany,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,Cross Country Skiing, Evi sachenbacher stehle,Germany,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,Cross Country Skiing, Evgenia medvedeva-abruzova,Russia,Women,Combined 7.5 + 7.5Km Mass Start,Bronze
+2006,Turin,Skiing,Cross Country Skiing, Kristina smigun,Estonia,Women,Combined 7.5 + 7.5Km Mass Start,Gold
+2006,Turin,Skiing,Cross Country Skiing, Katerina neumannova,Czech Republic,Women,Combined 7.5 + 7.5Km Mass Start,Silver
+2006,Turin,Skiing,Cross Country Skiing, Alena sidko,Russia,Women,Sprint 1.5KM,Bronze
+2006,Turin,Skiing,Cross Country Skiing, Chandra crawford,Canada,Women,Sprint 1.5KM,Gold
+2006,Turin,Skiing,Cross Country Skiing, Claudia kuenzel,Germany,Women,Sprint 1.5KM,Silver
+2006,Turin,Skiing,Cross Country Skiing, Virpi kuitunen,Finland,Women,Team Sprint,Bronze
+2006,Turin,Skiing,Cross Country Skiing, Aino Kaisa saarinen,Finland,Women,Team Sprint,Bronze
+2006,Turin,Skiing,Cross Country Skiing, Lina andersson,Sweden,Women,Team Sprint,Gold
+2006,Turin,Skiing,Cross Country Skiing, Anna dahlberg,Sweden,Women,Team Sprint,Gold
+2006,Turin,Skiing,Cross Country Skiing, Sara renner,Canada,Women,Team Sprint,Silver
+2006,Turin,Skiing,Cross Country Skiing, Beckie scott,Canada,Women,Team Sprint,Silver
+2006,Turin,Skiing,Freestyle Skiing, Alisa camplin,Australia,Women,Aerials,Bronze
+2006,Turin,Skiing,Freestyle Skiing, Evelyne leu,Switzerland,Women,Aerials,Gold
+2006,Turin,Skiing,Freestyle Skiing, Nina li,China,Women,Aerials,Silver
+2006,Turin,Skiing,Freestyle Skiing, Sandra laoura,France,Women,Moguls,Bronze
+2006,Turin,Skiing,Freestyle Skiing, Jennifer heil,Canada,Women,Moguls,Gold
+2006,Turin,Skiing,Freestyle Skiing, Kari traa,Norway,Women,Moguls,Silver
+2006,Turin,Skiing,Snowboard, Rosey fletcher,USA,Women,Giant Parallel Slalom,Bronze
+2006,Turin,Skiing,Snowboard, Daniela meuli,Switzerland,Women,Giant Parallel Slalom,Gold
+2006,Turin,Skiing,Snowboard, Amelie kober,Germany,Women,Giant Parallel Slalom,Silver
+2006,Turin,Skiing,Snowboard, Kjersti buaas,Norway,Women,Half-Pipe,Bronze
+2006,Turin,Skiing,Snowboard, Hannah teter,USA,Women,Half-Pipe,Gold
+2006,Turin,Skiing,Snowboard, Gretchen bleiler,USA,Women,Half-Pipe,Silver
+2006,Turin,Skiing,Snowboard, Dominique maltais,Canada,Women,Snowboard Cross,Bronze
+2006,Turin,Skiing,Snowboard, Tanja frieden,Switzerland,Women,Snowboard Cross,Gold
+2006,Turin,Skiing,Snowboard, Lindsey jacobellis,USA,Women,Snowboard Cross,Silver
+2010,Vancouver,Biathlon,Biathlon, Marie Laure brunet,France,Women,10KM Pursuit,Bronze
+2010,Vancouver,Biathlon,Biathlon, Magdalena neuner,Germany,Women,10KM Pursuit,Gold
+2010,Vancouver,Biathlon,Biathlon, Anastazia kuzmina,Slovakia,Women,10KM Pursuit,Silver
+2010,Vancouver,Biathlon,Biathlon, Simone hauswald,Germany,Women,12.5KM Mass Start,Bronze
+2010,Vancouver,Biathlon,Biathlon, Magdalena neuner,Germany,Women,12.5KM Mass Start,Gold
+2010,Vancouver,Biathlon,Biathlon, Olga zaitseva,Russia,Women,12.5KM Mass Start,Silver
+2010,Vancouver,Biathlon,Biathlon, Darya domracheva,Belarus,Women,15KM,Bronze
+2010,Vancouver,Biathlon,Biathlon, Tora berger,Norway,Women,15KM,Gold
+2010,Vancouver,Biathlon,Biathlon, Elena khrustaleva,Kazakhstan,Women,15KM,Silver
+2010,Vancouver,Biathlon,Biathlon, Martina beck,Germany,Women,4X6KM Relay,Bronze
+2010,Vancouver,Biathlon,Biathlon, Simone hauswald,Germany,Women,4X6KM Relay,Bronze
+2010,Vancouver,Biathlon,Biathlon, Andrea henkel,Germany,Women,4X6KM Relay,Bronze
+2010,Vancouver,Biathlon,Biathlon, Kati wilhelm,Germany,Women,4X6KM Relay,Bronze
+2010,Vancouver,Biathlon,Biathlon, Anna bogaliy-titovets,Russia,Women,4X6KM Relay,Gold
+2010,Vancouver,Biathlon,Biathlon, Olga medvedtseva,Russia,Women,4X6KM Relay,Gold
+2010,Vancouver,Biathlon,Biathlon, Svetlana sleptsova,Russia,Women,4X6KM Relay,Gold
+2010,Vancouver,Biathlon,Biathlon, Olga zaitseva,Russia,Women,4X6KM Relay,Gold
+2010,Vancouver,Biathlon,Biathlon, Sandrine bailly,France,Women,4X6KM Relay,Silver
+2010,Vancouver,Biathlon,Biathlon, Sylvie becaert,France,Women,4X6KM Relay,Silver
+2010,Vancouver,Biathlon,Biathlon, Marie Laure brunet,France,Women,4X6KM Relay,Silver
+2010,Vancouver,Biathlon,Biathlon, Marie dorin,France,Women,4X6KM Relay,Silver
+2010,Vancouver,Biathlon,Biathlon, Marie dorin,France,Women,7.5KM,Bronze
+2010,Vancouver,Biathlon,Biathlon, Anastazia kuzmina,Slovakia,Women,7.5KM,Gold
+2010,Vancouver,Biathlon,Biathlon, Magdalena neuner,Germany,Women,7.5KM,Silver
+2010,Vancouver,Bobsleigh,Bobsleigh, Elana meyers,USA,Women,Two-Man,Bronze
+2010,Vancouver,Bobsleigh,Bobsleigh, Erin pac,USA,Women,Two-Man,Bronze
+2010,Vancouver,Bobsleigh,Bobsleigh, Kaillie humphries,Canada,Women,Two-Man,Gold
+2010,Vancouver,Bobsleigh,Bobsleigh, Heather moyse,Canada,Women,Two-Man,Gold
+2010,Vancouver,Bobsleigh,Bobsleigh, Shelley-Ann brown,Canada,Women,Two-Man,Silver
+2010,Vancouver,Bobsleigh,Bobsleigh, Helen upperton,Canada,Women,Two-Man,Silver
+2010,Vancouver,Bobsleigh,Skeleton, Anja huber,Germany,Women,Individual,Bronze
+2010,Vancouver,Bobsleigh,Skeleton, Amy williams,UK,Women,Individual,Gold
+2010,Vancouver,Bobsleigh,Skeleton, Kerstin szymkowiak,Germany,Women,Individual,Silver
+2010,Vancouver,Curling,Curling, Jinli liu,China,Women,Curling,Bronze
+2010,Vancouver,Curling,Curling, Yin liu,China,Women,Curling,Bronze
+2010,Vancouver,Curling,Curling, Bingyu wang,China,Women,Curling,Bronze
+2010,Vancouver,Curling,Curling, Qingshuang yue,China,Women,Curling,Bronze
+2010,Vancouver,Curling,Curling, Yan zhou,China,Women,Curling,Bronze
+2010,Vancouver,Curling,Curling, Kajsa bergstroem,Sweden,Women,Curling,Gold
+2010,Vancouver,Curling,Curling, Anna svaerd,Sweden,Women,Curling,Gold
+2010,Vancouver,Curling,Curling, Cathrine lindahl,Sweden,Women,Curling,Gold
+2010,Vancouver,Curling,Curling, Eva lund,Sweden,Women,Curling,Gold
+2010,Vancouver,Curling,Curling, Anette norberg,Sweden,Women,Curling,Gold
+2010,Vancouver,Curling,Curling, Cori bartel,Canada,Women,Curling,Silver
+2010,Vancouver,Curling,Curling, Cheryl bernard,Canada,Women,Curling,Silver
+2010,Vancouver,Curling,Curling, Carolyn darbyshire,Canada,Women,Curling,Silver
+2010,Vancouver,Curling,Curling, Kristie moore,Canada,Women,Curling,Silver
+2010,Vancouver,Curling,Curling, Susan o connor,Canada,Women,Curling,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Anne helin,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Jenni hiirikoski,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Venla hovi,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Michelle karvinen,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Mira kuisma,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Emma laaksonen,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Rosa lindstedt,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Terhi mertanen,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Heidi pelttari,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Mariia posa,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Annina rajahuhta,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Karoliina rantamaki,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Noora raty,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Mari saarinen,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Saija sirvio,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Nina tikkinen,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Minnamari tuominen,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Saara tuominen,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Linda valimaki,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Anna vanhatalo,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Marjo voutilainen,Finland,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,Ice Hockey, Meghan agosta,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Gillian apps,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Tessa bonhomme,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Jennifer botterill,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Jayna hefford,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Haley irwin,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Rebecca johnston,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Becky kellar,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Gina kingsbury,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Charline labonte,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Carla macleod,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Meaghan mikkelson,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Caroline ouellette,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Cherie piper,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Marie-Philip poulin,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Colleen sostorics,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Kim st-pierre,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Shannon szabados,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Sarah vaillancourt,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Catherine ward,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Hayley wickenheiser,Canada,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,Ice Hockey, Kacey bellamy,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Caitlin cahow,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Lisa chesson,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Julie chu,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Natalie darwitz,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Meghan duggan,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Molly engstrom,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Hilary knight,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Jocelyne lamoureux,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Monique lamoureux,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Erika lawler,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Gigi marvin,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Brianne mclaughlin,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Jenny potter,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Angela ruggiero,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Molly schaus,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Kelli stack,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Karen thatcher,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Jessie vetter,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Kerry weiland,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,Ice Hockey, Jinelle zaugg-siergiej,USA,Women,Ice Hockey,Silver
+2010,Vancouver,Luge,Luge, Natalie geisenberger,Germany,Women,Singles,Bronze
+2010,Vancouver,Luge,Luge, Tatjana huefner,Germany,Women,Singles,Gold
+2010,Vancouver,Luge,Luge, Nina reithmayer,Austria,Women,Singles,Silver
+2010,Vancouver,Skating,Figure skating, Oksana domnina,Russia,Women,Ice Dancing,Bronze
+2010,Vancouver,Skating,Figure skating, Tessa virtue,Canada,Women,Ice Dancing,Gold
+2010,Vancouver,Skating,Figure skating, Meryl davis,USA,Women,Ice Dancing,Silver
+2010,Vancouver,Skating,Figure skating, Joannie rochette,Canada,Women,Individual,Bronze
+2010,Vancouver,Skating,Figure skating, Yuna kim,South Korea,Women,Individual,Gold
+2010,Vancouver,Skating,Figure skating, Mao asada,Japan,Women,Individual,Silver
+2010,Vancouver,Skating,Figure skating, Aliona savchenko,Germany,Women,Pairs,Bronze
+2010,Vancouver,Skating,Figure skating, Xue shen,China,Women,Pairs,Gold
+2010,Vancouver,Skating,Figure skating, Qing pang,China,Women,Pairs,Silver
+2010,Vancouver,Skating,Short Track Speed Skating, Seung-Hi park,South Korea,Women,1000M,Bronze
+2010,Vancouver,Skating,Short Track Speed Skating, Meng wang,China,Women,1000M,Gold
+2010,Vancouver,Skating,Short Track Speed Skating, Katherine reutter,USA,Women,1000M,Silver
+2010,Vancouver,Skating,Short Track Speed Skating, Seung-Hi park,South Korea,Women,1500M,Bronze
+2010,Vancouver,Skating,Short Track Speed Skating, Yang zhou,China,Women,1500M,Gold
+2010,Vancouver,Skating,Short Track Speed Skating, Eun-Byul lee,South Korea,Women,1500M,Silver
+2010,Vancouver,Skating,Short Track Speed Skating, Allison baver,USA,Women,3000M Relay,Bronze
+2010,Vancouver,Skating,Short Track Speed Skating, Kimberly derrick,USA,Women,3000M Relay,Bronze
+2010,Vancouver,Skating,Short Track Speed Skating, Alyson dudek,USA,Women,3000M Relay,Bronze
+2010,Vancouver,Skating,Short Track Speed Skating, Lana gehring,USA,Women,3000M Relay,Bronze
+2010,Vancouver,Skating,Short Track Speed Skating, Katherine reutter,USA,Women,3000M Relay,Bronze
+2010,Vancouver,Skating,Short Track Speed Skating, Linlin sun,China,Women,3000M Relay,Gold
+2010,Vancouver,Skating,Short Track Speed Skating, Meng wang,China,Women,3000M Relay,Gold
+2010,Vancouver,Skating,Short Track Speed Skating, Hui zhang,China,Women,3000M Relay,Gold
+2010,Vancouver,Skating,Short Track Speed Skating, Yang zhou,China,Women,3000M Relay,Gold
+2010,Vancouver,Skating,Short Track Speed Skating, Jessica gregg,Canada,Women,3000M Relay,Silver
+2010,Vancouver,Skating,Short Track Speed Skating, Kalyna roberge,Canada,Women,3000M Relay,Silver
+2010,Vancouver,Skating,Short Track Speed Skating, Marianne st-gelais,Canada,Women,3000M Relay,Silver
+2010,Vancouver,Skating,Short Track Speed Skating, Tania vicent,Canada,Women,3000M Relay,Silver
+2010,Vancouver,Skating,Short Track Speed Skating, Arianna fontana,Italy,Women,500M,Bronze
+2010,Vancouver,Skating,Short Track Speed Skating, Meng wang,China,Women,500M,Gold
+2010,Vancouver,Skating,Short Track Speed Skating, Marianne st-gelais,Canada,Women,500M,Silver
+2010,Vancouver,Skating,Speed skating, Laurine van riessen,Netherlands,Women,1000M,Bronze
+2010,Vancouver,Skating,Speed skating, Christine nesbitt,Canada,Women,1000M,Gold
+2010,Vancouver,Skating,Speed skating, Annette gerritsen,Netherlands,Women,1000M,Silver
+2010,Vancouver,Skating,Speed skating, Martina sablikova,Czech Republic,Women,1500M,Bronze
+2010,Vancouver,Skating,Speed skating, Ireen wust,Netherlands,Women,1500M,Gold
+2010,Vancouver,Skating,Speed skating, Kristina groves,Canada,Women,1500M,Silver
+2010,Vancouver,Skating,Speed skating, Kristina groves,Canada,Women,3000M,Bronze
+2010,Vancouver,Skating,Speed skating, Martina sablikova,Czech Republic,Women,3000M,Gold
+2010,Vancouver,Skating,Speed skating, Stephanie beckert,Germany,Women,3000M,Silver
+2010,Vancouver,Skating,Speed skating, Clara hughes,Canada,Women,5000M,Bronze
+2010,Vancouver,Skating,Speed skating, Martina sablikova,Czech Republic,Women,5000M,Gold
+2010,Vancouver,Skating,Speed skating, Stephanie beckert,Germany,Women,5000M,Silver
+2010,Vancouver,Skating,Speed skating, Beixing wang,China,Women,500M,Bronze
+2010,Vancouver,Skating,Speed skating, Sang-Hwa lee,South Korea,Women,500M,Gold
+2010,Vancouver,Skating,Speed skating, Jenny wolf,Germany,Women,500M,Silver
+2010,Vancouver,Skating,Speed skating, Katarzyna bachleda-curus,Poland,Women,Team Pursuit,Bronze
+2010,Vancouver,Skating,Speed skating, Katarzyna wozniak,Poland,Women,Team Pursuit,Bronze
+2010,Vancouver,Skating,Speed skating, Luiza zlotkowska,Poland,Women,Team Pursuit,Bronze
+2010,Vancouver,Skating,Speed skating, Daniela anschutz thoms,Germany,Women,Team Pursuit,Gold
+2010,Vancouver,Skating,Speed skating, Stephanie beckert,Germany,Women,Team Pursuit,Gold
+2010,Vancouver,Skating,Speed skating, Anna friesinger-postma,Germany,Women,Team Pursuit,Gold
+2010,Vancouver,Skating,Speed skating, Katrin mattscherodt,Germany,Women,Team Pursuit,Gold
+2010,Vancouver,Skating,Speed skating, Masako hozumi,Japan,Women,Team Pursuit,Silver
+2010,Vancouver,Skating,Speed skating, Nao kodaira,Japan,Women,Team Pursuit,Silver
+2010,Vancouver,Skating,Speed skating, Maki tabata,Japan,Women,Team Pursuit,Silver
+2010,Vancouver,Skiing,Alpine Skiing, Elisabeth goergl,Austria,Women,Downhill,Bronze
+2010,Vancouver,Skiing,Alpine Skiing, Lindsey vonn,USA,Women,Downhill,Gold
+2010,Vancouver,Skiing,Alpine Skiing, Julia mancuso,USA,Women,Downhill,Silver
+2010,Vancouver,Skiing,Alpine Skiing, Elisabeth goergl,Austria,Women,Giant Slalom,Bronze
+2010,Vancouver,Skiing,Alpine Skiing, Viktoria rebensburg,Germany,Women,Giant Slalom,Gold
+2010,Vancouver,Skiing,Alpine Skiing, Tina maze,Slovenia,Women,Giant Slalom,Silver
+2010,Vancouver,Skiing,Alpine Skiing, Sarka zahrobska,Czech Republic,Women,Slalom,Bronze
+2010,Vancouver,Skiing,Alpine Skiing, Maria riesch,Germany,Women,Slalom,Gold
+2010,Vancouver,Skiing,Alpine Skiing, Marlies schild,Austria,Women,Slalom,Silver
+2010,Vancouver,Skiing,Alpine Skiing, Anja paerson,Sweden,Women,Super Combined,Bronze
+2010,Vancouver,Skiing,Alpine Skiing, Maria riesch,Germany,Women,Super Combined,Gold
+2010,Vancouver,Skiing,Alpine Skiing, Julia mancuso,USA,Women,Super Combined,Silver
+2010,Vancouver,Skiing,Alpine Skiing, Lindsey vonn,USA,Women,Super-G,Bronze
+2010,Vancouver,Skiing,Alpine Skiing, Andrea fischbacher,Austria,Women,Super-G,Gold
+2010,Vancouver,Skiing,Alpine Skiing, Tina maze,Slovenia,Women,Super-G,Silver
+2010,Vancouver,Skiing,Cross Country Skiing, Marit bjoergen,Norway,Women,10KM,Bronze
+2010,Vancouver,Skiing,Cross Country Skiing, Charlotte kalla,Sweden,Women,10KM,Gold
+2010,Vancouver,Skiing,Cross Country Skiing, Kristina smigun-vaehi,Estonia,Women,10KM,Silver
+2010,Vancouver,Skiing,Cross Country Skiing, Aino-Kaisa saarinen,Finland,Women,30KM,Bronze
+2010,Vancouver,Skiing,Cross Country Skiing, Justyna kowalczyk,Poland,Women,30KM,Gold
+2010,Vancouver,Skiing,Cross Country Skiing, Marit bjoergen,Norway,Women,30KM,Silver
+2010,Vancouver,Skiing,Cross Country Skiing, Virpi kuitunen,Finland,Women,4X5KM Relay,Bronze
+2010,Vancouver,Skiing,Cross Country Skiing, Pirjo muranen,Finland,Women,4X5KM Relay,Bronze
+2010,Vancouver,Skiing,Cross Country Skiing, Riitta-Liisa roponen,Finland,Women,4X5KM Relay,Bronze
+2010,Vancouver,Skiing,Cross Country Skiing, Aino-Kaisa saarinen,Finland,Women,4X5KM Relay,Bronze
+2010,Vancouver,Skiing,Cross Country Skiing, Marit bjoergen,Norway,Women,4X5KM Relay,Gold
+2010,Vancouver,Skiing,Cross Country Skiing, Therese johaug,Norway,Women,4X5KM Relay,Gold
+2010,Vancouver,Skiing,Cross Country Skiing, Vibeke W skofterud,Norway,Women,4X5KM Relay,Gold
+2010,Vancouver,Skiing,Cross Country Skiing, Kristin Stoermer steira,Norway,Women,4X5KM Relay,Gold
+2010,Vancouver,Skiing,Cross Country Skiing, Miriam gossner,Germany,Women,4X5KM Relay,Silver
+2010,Vancouver,Skiing,Cross Country Skiing, Claudia nystad,Germany,Women,4X5KM Relay,Silver
+2010,Vancouver,Skiing,Cross Country Skiing, Evi sachenbacher-stehle,Germany,Women,4X5KM Relay,Silver
+2010,Vancouver,Skiing,Cross Country Skiing, Katrin zeller,Germany,Women,4X5KM Relay,Silver
+2010,Vancouver,Skiing,Cross Country Skiing, Justyna kowalczyk,Poland,Women,Combined 7.5 + 7.5Km Mass Start,Bronze
+2010,Vancouver,Skiing,Cross Country Skiing, Marit bjoergen,Norway,Women,Combined 7.5 + 7.5Km Mass Start,Gold
+2010,Vancouver,Skiing,Cross Country Skiing, Anna haag,Sweden,Women,Combined 7.5 + 7.5Km Mass Start,Silver
+2010,Vancouver,Skiing,Cross Country Skiing, Petra majdic,Slovenia,Women,Sprint 1.5KM,Bronze
+2010,Vancouver,Skiing,Cross Country Skiing, Marit bjoergen,Norway,Women,Sprint 1.5KM,Gold
+2010,Vancouver,Skiing,Cross Country Skiing, Justyna kowalczyk,Poland,Women,Sprint 1.5KM,Silver
+2010,Vancouver,Skiing,Cross Country Skiing, Irina khazova,Russia,Women,Team Sprint,Bronze
+2010,Vancouver,Skiing,Cross Country Skiing, Natalia korosteleva,Russia,Women,Team Sprint,Bronze
+2010,Vancouver,Skiing,Cross Country Skiing, Claudia nystad,Germany,Women,Team Sprint,Gold
+2010,Vancouver,Skiing,Cross Country Skiing, Evi sachenbacher-stehle,Germany,Women,Team Sprint,Gold
+2010,Vancouver,Skiing,Cross Country Skiing, Anna haag,Sweden,Women,Team Sprint,Silver
+2010,Vancouver,Skiing,Cross Country Skiing, Charlotte kalla,Sweden,Women,Team Sprint,Silver
+2010,Vancouver,Skiing,Freestyle Skiing, Xinxin guo,China,Women,Aerials,Bronze
+2010,Vancouver,Skiing,Freestyle Skiing, Lydia lassila,Australia,Women,Aerials,Gold
+2010,Vancouver,Skiing,Freestyle Skiing, Nina li,China,Women,Aerials,Silver
+2010,Vancouver,Skiing,Freestyle Skiing, Shannon bahrke,USA,Women,Moguls,Bronze
+2010,Vancouver,Skiing,Freestyle Skiing, Hannah kearney,USA,Women,Moguls,Gold
+2010,Vancouver,Skiing,Freestyle Skiing, Jennifer heil,Canada,Women,Moguls,Silver
+2010,Vancouver,Skiing,Freestyle Skiing, Marion josserand,France,Women,Ski Cross,Bronze
+2010,Vancouver,Skiing,Freestyle Skiing, Ashleigh mcivor,Canada,Women,Ski Cross,Gold
+2010,Vancouver,Skiing,Freestyle Skiing, Hedda berntsen,Norway,Women,Ski Cross,Silver
+2010,Vancouver,Skiing,Snowboard, Marion kreiner,Austria,Women,Giant Parallel Slalom,Bronze
+2010,Vancouver,Skiing,Snowboard, Nicolien sauerbreij,Netherlands,Women,Giant Parallel Slalom,Gold
+2010,Vancouver,Skiing,Snowboard, Ekaterina ilyukhina,Russia,Women,Giant Parallel Slalom,Silver
+2010,Vancouver,Skiing,Snowboard, Kelly clark,USA,Women,Half-Pipe,Bronze
+2010,Vancouver,Skiing,Snowboard, Torah bright,Australia,Women,Half-Pipe,Gold
+2010,Vancouver,Skiing,Snowboard, Hannah teter,USA,Women,Half-Pipe,Silver
+2010,Vancouver,Skiing,Snowboard, Olivia nobs,Switzerland,Women,Snowboard Cross,Bronze
+2010,Vancouver,Skiing,Snowboard, Maelle ricker,Canada,Women,Snowboard Cross,Gold
+2010,Vancouver,Skiing,Snowboard, Deborah anthonioz,France,Women,Snowboard Cross,Silver
+2014,Sochi,Biathlon,Biathlon, Darya domracheva,Belarus,Women,10KM Pursuit,Gold
+2014,Sochi,Biathlon,Biathlon, Tora berger,Norway,Women,10KM Pursuit,Silver
+2014,Sochi,Biathlon,Biathlon, Teja gregorin,Slovenia,Women,10KM Pursuit,Bronze
+2014,Sochi,Biathlon,Biathlon, Darya domracheva,Belarus,Women,12.5KM Mass Start,Gold
+2014,Sochi,Biathlon,Biathlon, Gabriela soukalova,Czech Republic,Women,12.5KM Mass Start,Silver
+2014,Sochi,Biathlon,Biathlon, Tiril eckhoff,Norway,Women,12.5KM Mass Start,Bronze
+2014,Sochi,Biathlon,Biathlon, Darya domracheva,Belarus,Women,15KM,Gold
+2014,Sochi,Biathlon,Biathlon, Nadezhda skardino,Belarus,Women,15KM,Bronze
+2014,Sochi,Biathlon,Biathlon, Selina gasparin,Switzerland,Women,15KM,Silver
+2014,Sochi,Biathlon,Biathlon, Tora berger,Norway,Women,4X6KM Relay,Bronze
+2014,Sochi,Biathlon,Biathlon, Tiril eckhoff,Norway,Women,4X6KM Relay,Bronze
+2014,Sochi,Biathlon,Biathlon, Ann Kristin Aafedt flatland,Norway,Women,4X6KM Relay,Bronze
+2014,Sochi,Biathlon,Biathlon, Fanny Welle-Strand horn,Norway,Women,4X6KM Relay,Bronze
+2014,Sochi,Biathlon,Biathlon, Yana romanova,Russia,Women,4X6KM Relay,Silver
+2014,Sochi,Biathlon,Biathlon, Ekaterina shumilova,Russia,Women,4X6KM Relay,Silver
+2014,Sochi,Biathlon,Biathlon, Olga vilukhina,Russia,Women,4X6KM Relay,Silver
+2014,Sochi,Biathlon,Biathlon, Olga zaitseva,Russia,Women,4X6KM Relay,Silver
+2014,Sochi,Biathlon,Biathlon, Juliya dzhyma,Ukraine,Women,4X6KM Relay,Gold
+2014,Sochi,Biathlon,Biathlon, Olena pidhrushna,Ukraine,Women,4X6KM Relay,Gold
+2014,Sochi,Biathlon,Biathlon, Valj semerenko,Ukraine,Women,4X6KM Relay,Gold
+2014,Sochi,Biathlon,Biathlon, Vita semerenko,Ukraine,Women,4X6KM Relay,Gold
+2014,Sochi,Biathlon,Biathlon, Olga vilukhina,Russia,Women,7.5KM,Silver
+2014,Sochi,Biathlon,Biathlon, Anastazia kuzmina,Slovakia,Women,7.5KM,Gold
+2014,Sochi,Biathlon,Biathlon, Vita semerenko,Ukraine,Women,7.5KM,Bronze
+2014,Sochi,Biathlon,Biathlon, Gabriela soukalova,Czech Republic,Women,Relay Mix,Silver
+2014,Sochi,Biathlon,Biathlon, Veronika vitkova,Czech Republic,Women,Relay Mix,Silver
+2014,Sochi,Biathlon,Biathlon, Karin oberhofer,Italy,Women,Relay Mix,Bronze
+2014,Sochi,Biathlon,Biathlon, Dorothea wierer,Italy,Women,Relay Mix,Bronze
+2014,Sochi,Biathlon,Biathlon, Tora berger,Norway,Women,Relay Mix,Gold
+2014,Sochi,Biathlon,Biathlon, Tiril eckhoff,Norway,Women,Relay Mix,Gold
+2014,Sochi,Bobsleigh,Bobsleigh, Kaillie humphries,Canada,Women,Two-Woman,Gold
+2014,Sochi,Bobsleigh,Bobsleigh, Heather moyse,Canada,Women,Two-Woman,Gold
+2014,Sochi,Bobsleigh,Bobsleigh, Aja evans,USA,Women,Two-Woman,Bronze
+2014,Sochi,Bobsleigh,Bobsleigh, Jamie greubel,USA,Women,Two-Woman,Bronze
+2014,Sochi,Bobsleigh,Bobsleigh, Elana meyers,USA,Women,Two-Woman,Silver
+2014,Sochi,Bobsleigh,Bobsleigh, Lauryn williams,USA,Women,Two-Woman,Silver
+2014,Sochi,Bobsleigh,Skeleton, Elizabeth yarnold,UK,Women,Individual,Gold
+2014,Sochi,Bobsleigh,Skeleton, Elena nikitina,Russia,Women,Individual,Bronze
+2014,Sochi,Bobsleigh,Skeleton, Noelle pikus-pace,USA,Women,Individual,Silver
+2014,Sochi,Curling,Curling, Jennifer jones,Canada,Women,Curling,Gold
+2014,Sochi,Curling,Curling, Kaitlyn lawes,Canada,Women,Curling,Gold
+2014,Sochi,Curling,Curling, Dawn mcewen,Canada,Women,Curling,Gold
+2014,Sochi,Curling,Curling, Jill officer,Canada,Women,Curling,Gold
+2014,Sochi,Curling,Curling, Kirsten wall,Canada,Women,Curling,Gold
+2014,Sochi,Curling,Curling, Vicki adams,UK,Women,Curling,Bronze
+2014,Sochi,Curling,Curling, Lauren gray,UK,Women,Curling,Bronze
+2014,Sochi,Curling,Curling, Claire hamilton,UK,Women,Curling,Bronze
+2014,Sochi,Curling,Curling, Eve muirhead,UK,Women,Curling,Bronze
+2014,Sochi,Curling,Curling, Anna sloan,UK,Women,Curling,Bronze
+2014,Sochi,Curling,Curling, Christina bertrup,Sweden,Women,Curling,Silver
+2014,Sochi,Curling,Curling, Agnes knochenhauer,Sweden,Women,Curling,Silver
+2014,Sochi,Curling,Curling, Maria prytz,Sweden,Women,Curling,Silver
+2014,Sochi,Curling,Curling, Margaretha sigfridsson,Sweden,Women,Curling,Silver
+2014,Sochi,Curling,Curling, Maria wennerstroem,Sweden,Women,Curling,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Meghan agosta,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Gillian apps,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Melodie daoust,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Laura fortino,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Jayna hefford,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Haley irwin,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Brianne jenner,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Rebecca johnston,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Charline labonte,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Genevieve lacasse,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Jocelyne larocque,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Meaghan mikkelson,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Caroline ouellette,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Marie-Philip poulin,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Lauriane rougeau,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Natalie spooner,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Shannon szabados,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Jennifer wakefield,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Catherine ward,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Tara watchorn,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Hayley wickenheiser,Canada,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,Ice Hockey, Janine alder,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Livia altmann,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Sophie anthamatten,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Laura benz,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Sara benz,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Nicole bullo,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Romy eggimann,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Sarah forster,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Angela frautschi,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Jessica lutz,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Julia marty,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Stefanie marty,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Alina muller,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Katrin nabholz,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Evelina raselli,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Florence schelling,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Phoebe staenz,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Lara stalder,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Anja stiefel,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Sandra thalmann,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Nina waidacher,Switzerland,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,Ice Hockey, Kacey bellamy,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Megan bozek,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Alex carpenter,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Julie chu,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Kendall coyne,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Brianna decker,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Meghan duggan,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Lyndsey fry,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Amanda kessel,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Hilary knight,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Jocelyne lamoureux,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Monique lamoureux,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Gigi marvin,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Brianne mclaughlin,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Michelle picard,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Josephine pucci,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Molly schaus,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Anne schleper,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Kelli stack,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Lee stecklein,USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,Ice Hockey, Jessie vetter,USA,Women,Ice Hockey,Silver
+2014,Sochi,Luge,Luge, Natalie geisenberger,Germany,Women,Mixed Relay,Gold
+2014,Sochi,Luge,Luge, Eliza tiruma,Latvia,Women,Mixed Relay,Bronze
+2014,Sochi,Luge,Luge, Tatiana ivanova,Russia,Women,Mixed Relay,Silver
+2014,Sochi,Luge,Luge, Natalie geisenberger,Germany,Women,Singles,Gold
+2014,Sochi,Luge,Luge, Tatjana huefner,Germany,Women,Singles,Silver
+2014,Sochi,Luge,Luge, Erin hamlin,USA,Women,Singles,Bronze
+2014,Sochi,Skating,Figure skating, Tessa virtue,Canada,Women,Ice Dancing,Silver
+2014,Sochi,Skating,Figure skating, Elena ilinykh,Russia,Women,Ice Dancing,Bronze
+2014,Sochi,Skating,Figure skating, Meryl davis,USA,Women,Ice Dancing,Gold
+2014,Sochi,Skating,Figure skating, Carolina kostner,Italy,Women,Individual,Bronze
+2014,Sochi,Skating,Figure skating, Yuna kim,South Korea,Women,Individual,Silver
+2014,Sochi,Skating,Figure skating, Adelina sotnikova,Russia,Women,Individual,Gold
+2014,Sochi,Skating,Figure skating, Aliona savchenko,Germany,Women,Pairs,Bronze
+2014,Sochi,Skating,Figure skating, Ksenia stolbova,Russia,Women,Pairs,Silver
+2014,Sochi,Skating,Figure skating, Tatiana volosozhar,Russia,Women,Pairs,Gold
+2014,Sochi,Skating,Figure skating, Meagan duhamel,Canada,Women,Team,Silver
+2014,Sochi,Skating,Figure skating, Kirsten moore-towers,Canada,Women,Team,Silver
+2014,Sochi,Skating,Figure skating, Kaetlyn osmond,Canada,Women,Team,Silver
+2014,Sochi,Skating,Figure skating, Tessa virtue,Canada,Women,Team,Silver
+2014,Sochi,Skating,Figure skating, Ekaterina bobrova,Russia,Women,Team,Gold
+2014,Sochi,Skating,Figure skating, Elena ilinykh,Russia,Women,Team,Gold
+2014,Sochi,Skating,Figure skating, Yulia lipnitskaya,Russia,Women,Team,Gold
+2014,Sochi,Skating,Figure skating, Ksenia stolbova,Russia,Women,Team,Gold
+2014,Sochi,Skating,Figure skating, Tatiana volosozhar,Russia,Women,Team,Gold
+2014,Sochi,Skating,Figure skating, Marissa castelli,USA,Women,Team,Bronze
+2014,Sochi,Skating,Figure skating, Meryl davis,USA,Women,Team,Bronze
+2014,Sochi,Skating,Figure skating, Gracie gold,USA,Women,Team,Bronze
+2014,Sochi,Skating,Figure skating, Ashley wagner,USA,Women,Team,Bronze
+2014,Sochi,Skating,Short Track Speed Skating, Kexin fan,China,Women,1000M,Silver
+2014,Sochi,Skating,Short Track Speed Skating, Seung-Hi park,South Korea,Women,1000M,Gold
+2014,Sochi,Skating,Short Track Speed Skating, Suk Hee shim,South Korea,Women,1000M,Bronze
+2014,Sochi,Skating,Short Track Speed Skating, Yang zhou,China,Women,1500M,Gold
+2014,Sochi,Skating,Short Track Speed Skating, Arianna fontana,Italy,Women,1500M,Bronze
+2014,Sochi,Skating,Short Track Speed Skating, Suk Hee shim,South Korea,Women,1500M,Silver
+2014,Sochi,Skating,Short Track Speed Skating, Marie-Eve drolet,Canada,Women,3000M Relay,Silver
+2014,Sochi,Skating,Short Track Speed Skating, Jessica hewitt,Canada,Women,3000M Relay,Silver
+2014,Sochi,Skating,Short Track Speed Skating, Valerie maltais,Canada,Women,3000M Relay,Silver
+2014,Sochi,Skating,Short Track Speed Skating, Marianne st-gelais,Canada,Women,3000M Relay,Silver
+2014,Sochi,Skating,Short Track Speed Skating, Arianna fontana,Italy,Women,3000M Relay,Bronze
+2014,Sochi,Skating,Short Track Speed Skating, Lucia peretti,Italy,Women,3000M Relay,Bronze
+2014,Sochi,Skating,Short Track Speed Skating, Martina valcepina,Italy,Women,3000M Relay,Bronze
+2014,Sochi,Skating,Short Track Speed Skating, Elena viviani,Italy,Women,3000M Relay,Bronze
+2014,Sochi,Skating,Short Track Speed Skating, Ha-Ri cho,South Korea,Women,3000M Relay,Gold
+2014,Sochi,Skating,Short Track Speed Skating, Alang kim,South Korea,Women,3000M Relay,Gold
+2014,Sochi,Skating,Short Track Speed Skating, Sangjeong kong,South Korea,Women,3000M Relay,Gold
+2014,Sochi,Skating,Short Track Speed Skating, Seung-Hi park,South Korea,Women,3000M Relay,Gold
+2014,Sochi,Skating,Short Track Speed Skating, Suk Hee shim,South Korea,Women,3000M Relay,Gold
+2014,Sochi,Skating,Short Track Speed Skating, Jianrou li,China,Women,500M,Gold
+2014,Sochi,Skating,Short Track Speed Skating, Arianna fontana,Italy,Women,500M,Silver
+2014,Sochi,Skating,Short Track Speed Skating, Seung-Hi park,South Korea,Women,500M,Bronze
+2014,Sochi,Skating,Speed skating, Hong zhang,China,Women,1000M,Gold
+2014,Sochi,Skating,Speed skating, Margot boer,Netherlands,Women,1000M,Bronze
+2014,Sochi,Skating,Speed skating, Ireen wüst,Netherlands,Women,1000M,Silver
+2014,Sochi,Skating,Speed skating, Jorien ter mors,Netherlands,Women,1500M,Gold
+2014,Sochi,Skating,Speed skating, Lotte van beek,Netherlands,Women,1500M,Bronze
+2014,Sochi,Skating,Speed skating, Ireen wüst,Netherlands,Women,1500M,Silver
+2014,Sochi,Skating,Speed skating, Martina sablikova,Czech Republic,Women,3000M,Silver
+2014,Sochi,Skating,Speed skating, Ireen wüst,Netherlands,Women,3000M,Gold
+2014,Sochi,Skating,Speed skating, Olga graf,Russia,Women,3000M,Bronze
+2014,Sochi,Skating,Speed skating, Martina sablikova,Czech Republic,Women,5000M,Gold
+2014,Sochi,Skating,Speed skating, Carien kleibeuker,Netherlands,Women,5000M,Bronze
+2014,Sochi,Skating,Speed skating, Ireen wüst,Netherlands,Women,5000M,Silver
+2014,Sochi,Skating,Speed skating, Sang Hwa lee,South Korea,Women,500M,Gold
+2014,Sochi,Skating,Speed skating, Margot boer,Netherlands,Women,500M,Bronze
+2014,Sochi,Skating,Speed skating, Olga fatkulina,Russia,Women,500M,Silver
+2014,Sochi,Skating,Speed skating, Marrit leenstra,Netherlands,Women,Team Pursuit,Gold
+2014,Sochi,Skating,Speed skating, Jorien ter mors,Netherlands,Women,Team Pursuit,Gold
+2014,Sochi,Skating,Speed skating, Lotte van beek,Netherlands,Women,Team Pursuit,Gold
+2014,Sochi,Skating,Speed skating, Ireen wüst,Netherlands,Women,Team Pursuit,Gold
+2014,Sochi,Skating,Speed skating, Katarzyna bachleda-curus,Poland,Women,Team Pursuit,Silver
+2014,Sochi,Skating,Speed skating, Natalia czerwonka,Poland,Women,Team Pursuit,Silver
+2014,Sochi,Skating,Speed skating, Katarzyna wozniak,Poland,Women,Team Pursuit,Silver
+2014,Sochi,Skating,Speed skating, Luiza zlotkowska,Poland,Women,Team Pursuit,Silver
+2014,Sochi,Skating,Speed skating, Olga graf,Russia,Women,Team Pursuit,Bronze
+2014,Sochi,Skating,Speed skating, Yekaterina lobysheva,Russia,Women,Team Pursuit,Bronze
+2014,Sochi,Skating,Speed skating, Yekaterina shikhova,Russia,Women,Team Pursuit,Bronze
+2014,Sochi,Skating,Speed skating, Yuliya skokova,Russia,Women,Team Pursuit,Bronze
+2014,Sochi,Skiing,Alpine Skiing, Tina maze,Slovenia,Women,Downhill,Gold
+2014,Sochi,Skiing,Alpine Skiing, Dominique gisin,Switzerland,Women,Downhill,Gold
+2014,Sochi,Skiing,Alpine Skiing, Lara gut,Switzerland,Women,Downhill,Bronze
+2014,Sochi,Skiing,Alpine Skiing, Anna fenninger,Austria,Women,Giant Slalom,Silver
+2014,Sochi,Skiing,Alpine Skiing, Viktoria rebensburg,Germany,Women,Giant Slalom,Bronze
+2014,Sochi,Skiing,Alpine Skiing, Tina maze,Slovenia,Women,Giant Slalom,Gold
+2014,Sochi,Skiing,Alpine Skiing, Marlies schild,Austria,Women,Slalom,Silver
+2014,Sochi,Skiing,Alpine Skiing, Kathrin zettel,Austria,Women,Slalom,Bronze
+2014,Sochi,Skiing,Alpine Skiing, Mikaela shiffrin,USA,Women,Slalom,Gold
+2014,Sochi,Skiing,Alpine Skiing, Nicole hosp,Austria,Women,Super Combined,Silver
+2014,Sochi,Skiing,Alpine Skiing, Maria hoefl-riesch,Germany,Women,Super Combined,Gold
+2014,Sochi,Skiing,Alpine Skiing, Julia mancuso,USA,Women,Super Combined,Bronze
+2014,Sochi,Skiing,Alpine Skiing, Anna fenninger,Austria,Women,Super-G,Gold
+2014,Sochi,Skiing,Alpine Skiing, Nicole hosp,Austria,Women,Super-G,Bronze
+2014,Sochi,Skiing,Alpine Skiing, Maria hoefl-riesch,Germany,Women,Super-G,Silver
+2014,Sochi,Skiing,Cross Country Skiing, Therese johaug,Norway,Women,10KM,Bronze
+2014,Sochi,Skiing,Cross Country Skiing, Justyna kowalczyk,Poland,Women,10KM,Gold
+2014,Sochi,Skiing,Cross Country Skiing, Charlotte kalla,Sweden,Women,10KM,Silver
+2014,Sochi,Skiing,Cross Country Skiing, Marit bjoergen,Norway,Women,30KM,Gold
+2014,Sochi,Skiing,Cross Country Skiing, Therese johaug,Norway,Women,30KM,Silver
+2014,Sochi,Skiing,Cross Country Skiing, Kristin Stoermer steira,Norway,Women,30KM,Bronze
+2014,Sochi,Skiing,Cross Country Skiing, Anne kylloenen,Finland,Women,4X5KM Relay,Silver
+2014,Sochi,Skiing,Cross Country Skiing, Krista lahteenmaki,Finland,Women,4X5KM Relay,Silver
+2014,Sochi,Skiing,Cross Country Skiing, Kerttu niskanen,Finland,Women,4X5KM Relay,Silver
+2014,Sochi,Skiing,Cross Country Skiing, Aino-Kaisa saarinen,Finland,Women,4X5KM Relay,Silver
+2014,Sochi,Skiing,Cross Country Skiing, Stefanie boehler,Germany,Women,4X5KM Relay,Bronze
+2014,Sochi,Skiing,Cross Country Skiing, Nicole fessel,Germany,Women,4X5KM Relay,Bronze
+2014,Sochi,Skiing,Cross Country Skiing, Denise herrmann,Germany,Women,4X5KM Relay,Bronze
+2014,Sochi,Skiing,Cross Country Skiing, Claudia nystad,Germany,Women,4X5KM Relay,Bronze
+2014,Sochi,Skiing,Cross Country Skiing, Anna haag,Sweden,Women,4X5KM Relay,Gold
+2014,Sochi,Skiing,Cross Country Skiing, Ida ingemarsdotter,Sweden,Women,4X5KM Relay,Gold
+2014,Sochi,Skiing,Cross Country Skiing, Charlotte kalla,Sweden,Women,4X5KM Relay,Gold
+2014,Sochi,Skiing,Cross Country Skiing, Emma wiken,Sweden,Women,4X5KM Relay,Gold
+2014,Sochi,Skiing,Cross Country Skiing, Marit bjoergen,Norway,Women,Combined7.5+7.5,Gold
+2014,Sochi,Skiing,Cross Country Skiing, Heidi weng,Norway,Women,Combined7.5+7.5,Bronze
+2014,Sochi,Skiing,Cross Country Skiing, Charlotte kalla,Sweden,Women,Combined7.5+7.5,Silver
+2014,Sochi,Skiing,Cross Country Skiing, Maiken Caspersen falla,Norway,Women,Sprint 1.5KM,Gold
+2014,Sochi,Skiing,Cross Country Skiing, Ingvild Flugstad oestberg,Norway,Women,Sprint 1.5KM,Silver
+2014,Sochi,Skiing,Cross Country Skiing, Vesna fabjan,Slovenia,Women,Sprint 1.5KM,Bronze
+2014,Sochi,Skiing,Cross Country Skiing, Kerttu niskanen,Finland,Women,Team Sprint,Silver
+2014,Sochi,Skiing,Cross Country Skiing, Aino-Kaisa saarinen,Finland,Women,Team Sprint,Silver
+2014,Sochi,Skiing,Cross Country Skiing, Marit bjoergen,Norway,Women,Team Sprint,Gold
+2014,Sochi,Skiing,Cross Country Skiing, Ingvild Flugstad oestberg,Norway,Women,Team Sprint,Gold
+2014,Sochi,Skiing,Cross Country Skiing, Ida ingemarsdotter,Sweden,Women,Team Sprint,Bronze
+2014,Sochi,Skiing,Cross Country Skiing, Stina nilsson,Sweden,Women,Team Sprint,Bronze
+2014,Sochi,Skiing,Freestyle Skiing, Lydia lassila,Australia,Women,Aerials,Bronze
+2014,Sochi,Skiing,Freestyle Skiing, Alla tsuper,Belarus,Women,Aerials,Gold
+2014,Sochi,Skiing,Freestyle Skiing, Mengtao xu,China,Women,Aerials,Silver
+2014,Sochi,Skiing,Freestyle Skiing, Chloe dufour-lapointe,Canada,Women,Moguls,Silver
+2014,Sochi,Skiing,Freestyle Skiing, Justine dufour-lapointe,Canada,Women,Moguls,Gold
+2014,Sochi,Skiing,Freestyle Skiing, Hannah kearney,USA,Women,Moguls,Bronze
+2014,Sochi,Skiing,Freestyle Skiing, Kelsey serwa,Canada,Women,Ski Cross,Silver
+2014,Sochi,Skiing,Freestyle Skiing, Marielle thompson,Canada,Women,Ski Cross,Gold
+2014,Sochi,Skiing,Freestyle Skiing, Anna holmlund,Sweden,Women,Ski Cross,Bronze
+2014,Sochi,Skiing,Freestyle Skiing, Marie martinod,France,Women,Ski Halfpipe,Silver
+2014,Sochi,Skiing,Freestyle Skiing, Ayana onozuka,Japan,Women,Ski Halfpipe,Bronze
+2014,Sochi,Skiing,Freestyle Skiing, Maddie bowman,USA,Women,Ski Halfpipe,Gold
+2014,Sochi,Skiing,Freestyle Skiing, Dara howell,Canada,Women,Ski Slopestyle,Gold
+2014,Sochi,Skiing,Freestyle Skiing, Kim lamarre,Canada,Women,Ski Slopestyle,Bronze
+2014,Sochi,Skiing,Freestyle Skiing, Devin logan,USA,Women,Ski Slopestyle,Silver
+2014,Sochi,Skiing,Ski Jumping, Daniela iraschko-stolz,Austria,Women,K90 Individual,Silver
+2014,Sochi,Skiing,Ski Jumping, Coline mattel,France,Women,K90 Individual,Bronze
+2014,Sochi,Skiing,Ski Jumping, Carina vogt,Germany,Women,K90 Individual,Gold
+2014,Sochi,Skiing,Snowboard, Tomoka takeuchi,Japan,Women,Giant Parall.S.,Silver
+2014,Sochi,Skiing,Snowboard, Alena zavarzina,Russia,Women,Giant Parall.S.,Bronze
+2014,Sochi,Skiing,Snowboard, Patrizia kummer,Switzerland,Women,Giant Parall.S.,Gold
+2014,Sochi,Skiing,Snowboard, Torah bright,Australia,Women,Half-Pipe,Silver
+2014,Sochi,Skiing,Snowboard, Kelly clark,USA,Women,Half-Pipe,Bronze
+2014,Sochi,Skiing,Snowboard, Kaitlyn farrington,USA,Women,Half-Pipe,Gold
+2014,Sochi,Skiing,Snowboard, Julia dujmovits,Austria,Women,Parallel Slalom,Gold
+2014,Sochi,Skiing,Snowboard, Anke karstens,Germany,Women,Parallel Slalom,Silver
+2014,Sochi,Skiing,Snowboard, Amelie kober,Germany,Women,Parallel Slalom,Bronze
+2014,Sochi,Skiing,Snowboard, Enni rukajarvi,Finland,Women,Slopestyle,Silver
+2014,Sochi,Skiing,Snowboard, Jenny jones,UK,Women,Slopestyle,Bronze
+2014,Sochi,Skiing,Snowboard, Jamie anderson,USA,Women,Slopestyle,Gold
+2014,Sochi,Skiing,Snowboard, Dominique maltais,Canada,Women,Snowboard Cross,Silver
+2014,Sochi,Skiing,Snowboard, Eva samkova,Czech Republic,Women,Snowboard Cross,Gold
+2014,Sochi,Skiing,Snowboard, Chloe trespeuch,France,Women,Snowboard Cross,Bronze
